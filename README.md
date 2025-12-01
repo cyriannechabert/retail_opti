@@ -8,3 +8,5 @@ Goal:
 - have a clear view of which products are nearly rotten to put discounts on them, put them in strategic places in the shop
 - know what to buy and when
 - optimize the drives (take away online) for product availability
+
+data comes from https://github.com/ging/carrefour_basket_data_challenge
