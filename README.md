@@ -9,4 +9,5 @@ Goal:
 - know what to buy and when
 - optimize the drives (take away online) for product availability
 
-data comes from https://github.com/ging/carrefour_basket_data_challenge
+data comes from : https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data?resource=download
+
