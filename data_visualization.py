@@ -1,9 +1,17 @@
-import json
 import pandas as pd
 
-path = r"C:/Users/cycyc/retail_opti\DelightingCustomersBD.json"
+files = ["annex1.csv", "annex2.csv", "annex3.csv", "annex4.csv"]
 
-with open(path, "r", encoding="utf-8") as f:
-    raw = f.read()
-
-print(raw[:500])  # print first 500 chars
+for f in files:
+    print("\n======", f, "======")
+    
+    try:
+        df = pd.read_csv(f)
+    except UnicodeDecodeError:
+        df = pd.read_csv(f, encoding="latin-1")
+    
+    print("\n--- HEAD ---")
+    print(df.head())
+    
+    print("\n--- INFO ---")
+    print(df.info())

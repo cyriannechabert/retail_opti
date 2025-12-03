@@ -1,0 +1,801 @@
+Batch_ID,Product_EAN,Product_Name,Category,Arrival_Date,Qty_Received,Unit_Cost,Expiry_Date,Status
+BATCH-10000,36806318444,Yoplait Beurre Doux x8,Dairy,2023-10-28,77,1.5,2023-11-27,Available
+BATCH-10001,37265210865,Priméale Tomates Sachet,Fresh Produce,2023-10-01,34,1.58,2023-10-11,Available
+BATCH-10002,36700048580,Dove Savon Liquide 400ml,Hygiene,2023-10-18,53,3.55,2025-01-26,Available
+BATCH-10003,39110362849,Barilla Riz Basmati Tube,Grocery (Dry),2023-10-08,88,4.05,2024-07-08,Available
+BATCH-10004,36120838418,Carrefour Bio Lait Demi-Ecrémé x8,Dairy,2023-10-11,122,2.0,2023-11-18,Available
+BATCH-10005,35540466839,Yoplait Beurre Doux 1L,Dairy,2023-10-04,107,2.94,2023-11-02,Available
+BATCH-10006,37341880124,L'Oréal Dentifrice 400ml,Hygiene,2023-11-10,132,3.15,2025-09-28,Available
+BATCH-10007,36589036315,Barilla Riz Basmati 500g,Grocery (Dry),2023-10-02,66,3.49,2025-08-25,Available
+BATCH-10008,33384524955,Origine Espagne Bananes Vrac,Fresh Produce,2023-11-07,16,3.32,2023-11-13,Available
+BATCH-10009,33845959382,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-10-05,190,6.27,2024-12-09,Available
+BATCH-10010,37263590212,L'Oréal Dentifrice Lot x2,Hygiene,2023-11-08,156,6.33,2025-01-20,Available
+BATCH-10011,34289718375,Oasis Thé Glacé 1.5L,Beverages,2023-10-05,200,4.23,2024-09-16,Available
+BATCH-10012,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-10-03,143,1.24,2024-05-21,Available
+BATCH-10013,35439639777,La Boulangère Baguette Complet,Bakery,2023-10-28,32,1.25,2023-11-06,Available
+BATCH-10014,34830962007,Oasis Eau Minérale Canette 33cl,Beverages,2023-10-23,129,2.76,2024-10-02,Available
+BATCH-10015,39080168818,Galbani Crème Fraîche x8,Dairy,2023-10-29,170,1.19,2023-12-02,Available
+BATCH-10016,37103597186,Carrefour Bio Pommes Sachet,Fresh Produce,2023-10-13,28,2.59,2023-10-23,Available
+BATCH-10017,39781714639,Origine Espagne Bananes 500g,Fresh Produce,2023-11-09,16,3.91,2023-11-14,Available
+BATCH-10018,39963303355,Bonduelle Riz Basmati Tube,Grocery (Dry),2023-10-08,62,2.23,2024-07-14,Available
+BATCH-10019,38290721923,Carrefour Bio Yaourt Nature 250g,Dairy,2023-10-26,61,3.45,2023-11-17,Available
+BATCH-10020,35056842032,Lustucru Sauce Tomate 1kg,Grocery (Dry),2023-10-09,51,4.71,2024-06-09,Available
+BATCH-10021,37265210865,Priméale Tomates Sachet,Fresh Produce,2023-10-23,33,1.58,2023-11-02,Available
+BATCH-10022,33483980197,Carrefour Bio Beurre Doux 1L,Dairy,2023-10-30,120,2.46,2023-11-25,Available
+BATCH-10023,34722553343,Priméale Tomates 500g,Fresh Produce,2023-10-22,38,2.84,2023-10-27,Available
+BATCH-10024,38429162897,Carrefour Bio Carottes 500g,Fresh Produce,2023-10-25,32,3.72,2023-11-02,Available
+BATCH-10025,36295575786,Pasquier Baguette x10,Bakery,2023-11-15,39,1.78,2023-11-27,Available
+BATCH-10026,33495896380,Origine Espagne Bananes 500g,Fresh Produce,2023-10-30,10,2.25,2023-11-05,Available
+BATCH-10027,37136892462,Harrys Croissants Nature,Bakery,2023-10-03,22,1.6,2023-10-17,Available
+BATCH-10028,36625215543,Barilla Pâtes 1kg,Grocery (Dry),2023-11-05,54,2.33,2024-11-17,Available
+BATCH-10029,36940587890,Carrefour Bio Lait Demi-Ecrémé 500g,Dairy,2023-11-08,138,2.19,2023-12-15,Available
+BATCH-10030,36873861548,Pasquier Pain de Mie x6,Bakery,2023-10-20,111,2.06,2023-11-09,Available
+BATCH-10031,34816618234,Carrefour Bio Yaourt Nature 250g,Dairy,2023-10-31,73,2.78,2023-12-07,Available
+BATCH-10032,37860955759,Panzani Pâtes Bocal,Grocery (Dry),2023-10-21,152,3.17,2025-09-08,Available
+BATCH-10033,36097901750,Maille Mayonnaise 500g,Grocery (Dry),2023-11-09,106,1.62,2024-07-23,Available
+BATCH-10034,35104059513,Barilla Pâtes 1kg,Grocery (Dry),2023-10-06,152,3.11,2025-03-23,Available
+BATCH-10035,35397587817,Yoplait Lait Demi-Ecrémé 250g,Dairy,2023-11-12,117,2.25,2023-12-09,Available
+BATCH-10036,36004118941,Carrefour Bio Tomates Vrac,Fresh Produce,2023-11-13,22,3.3,2023-11-17,Available
+BATCH-10037,36322528927,Nivea Dentifrice Lot x2,Hygiene,2023-11-01,112,6.16,2025-09-28,Available
+BATCH-10038,32451723340,Nutella Moutarde 500g,Grocery (Dry),2023-10-22,183,2.68,2024-05-04,Available
+BATCH-10039,36760326753,Origine Espagne Pommes Vrac,Fresh Produce,2023-10-09,26,1.48,2023-10-14,Available
+BATCH-10040,35558140796,Evian Jus d'Orange Canette 33cl,Beverages,2023-11-14,81,1.76,2024-07-20,Available
+BATCH-10041,32180152312,Carrefour Bio Pommes 1kg,Fresh Produce,2023-11-08,12,1.58,2023-11-13,Available
+BATCH-10042,31449021496,Colgate Savon Liquide Lot x2,Hygiene,2023-10-21,62,4.35,2024-11-11,Available
+BATCH-10043,37086887645,Priméale Tomates 1kg,Fresh Produce,2023-10-11,32,2.22,2023-10-16,Available
+BATCH-10044,36238458415,Barilla Mayonnaise 1kg,Grocery (Dry),2023-10-19,200,1.3,2025-02-10,Available
+BATCH-10045,37263590212,L'Oréal Dentifrice Lot x2,Hygiene,2023-10-01,174,6.33,2024-12-13,Available
+BATCH-10046,37080868686,Barilla Pâtes 1kg,Grocery (Dry),2023-10-05,126,0.97,2024-05-16,Available
+BATCH-10047,35187588879,Lustucru Pâtes 500g,Grocery (Dry),2023-10-05,167,2.08,2025-06-22,Available
+BATCH-10048,32521703485,Cristaline Thé Glacé 1L,Beverages,2023-11-09,57,5.51,2024-07-01,Available
+BATCH-10049,38913192047,Lustucru Riz Basmati 1kg,Grocery (Dry),2023-11-15,105,2.15,2025-07-24,Available
+BATCH-10050,31932002492,Origine Espagne Carottes Sachet,Fresh Produce,2023-10-18,39,1.41,2023-10-26,Available
+BATCH-10051,33442058362,L'Oréal Gel Douche Bio,Hygiene,2023-10-01,164,3.79,2025-04-01,Available
+BATCH-10052,38308791119,Maille Moutarde Tube,Grocery (Dry),2023-11-05,151,2.32,2025-01-28,Available
+BATCH-10053,34563520421,Cristaline Jus d'Orange Canette 33cl,Beverages,2023-11-07,162,2.64,2024-05-13,Available
+BATCH-10054,31303192976,Maille Riz Basmati Bocal,Grocery (Dry),2023-10-14,180,0.92,2025-08-17,Available
+BATCH-10055,39681016344,Amora Sauce Tomate 500g,Grocery (Dry),2023-11-02,165,2.26,2025-06-26,Available
+BATCH-10056,36110128233,Evian Bière Blonde Canette 33cl,Beverages,2023-10-16,150,1.37,2024-05-08,Available
+BATCH-10057,34929308290,Priméale Courgettes Vrac,Fresh Produce,2023-10-12,11,2.19,2023-10-16,Available
+BATCH-10058,31703869319,Priméale Pommes Vrac,Fresh Produce,2023-10-15,16,2.28,2023-10-21,Available
+BATCH-10059,32326554850,Coca Cola Eau Minérale 1L,Beverages,2023-10-23,174,2.38,2024-08-14,Available
+BATCH-10060,39817383852,Pasquier Pain de Mie x10,Bakery,2023-11-15,117,2.5,2023-12-05,Available
+BATCH-10061,39769677648,Tropicana Bière Blonde Canette 33cl,Beverages,2023-10-22,118,1.84,2024-02-16,Available
+BATCH-10062,33896254671,Priméale Tomates 500g,Fresh Produce,2023-11-07,21,0.89,2023-11-14,Available
+BATCH-10063,38795398281,Tropicana Jus d'Orange Pack 6x33cl,Beverages,2023-10-30,134,0.89,2024-06-27,Available
+BATCH-10064,36977853668,Dove Savon Liquide Lot x2,Hygiene,2023-11-12,126,5.41,2025-03-20,Available
+BATCH-10065,34042625132,Nivea Shampoing 250ml,Hygiene,2023-10-03,65,5.14,2024-12-14,Available
+BATCH-10066,34365798696,Origine France Carottes Sachet,Fresh Produce,2023-11-09,36,3.12,2023-11-19,Available
+BATCH-10067,35654032531,Origine Espagne Pommes 500g,Fresh Produce,2023-11-06,18,1.78,2023-11-16,Available
+BATCH-10068,35170594822,Oasis Bière Blonde Canette 33cl,Beverages,2023-10-22,158,1.74,2024-03-24,Available
+BATCH-10069,36107570150,Harrys Brioche Tranchée 500g,Bakery,2023-11-01,153,1.09,2023-11-22,Available
+BATCH-10070,33239269085,Origine France Courgettes 500g,Fresh Produce,2023-11-15,22,1.51,2023-11-21,Available
+BATCH-10071,33343500027,Boulangerie Loc. Croissants x10,Bakery,2023-10-30,31,2.17,2023-11-10,Available
+BATCH-10072,32741108066,Priméale Courgettes 500g,Fresh Produce,2023-10-16,37,1.16,2023-10-22,Available
+BATCH-10073,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-10-25,98,1.24,2024-06-12,Available
+BATCH-10074,35236179707,Amora Pâtes 1kg,Grocery (Dry),2023-10-09,109,2.91,2024-06-14,Available
+BATCH-10075,38430919006,Panzani Riz Basmati Tube,Grocery (Dry),2023-10-22,91,2.12,2024-08-26,Available
+BATCH-10076,36322528927,Nivea Dentifrice Lot x2,Hygiene,2023-10-07,182,6.16,2025-09-03,Available
+BATCH-10077,31031617834,La Boulangère Pain de Mie Nature,Bakery,2023-10-05,29,1.07,2023-10-15,Available
+BATCH-10078,36623274498,Galbani Yaourt Nature 250g,Dairy,2023-11-02,159,1.69,2023-12-08,Available
+BATCH-10079,36338992958,Origine France Bananes Sachet,Fresh Produce,2023-10-15,13,2.02,2023-10-19,Available
+BATCH-10080,39401067751,Origine Espagne Tomates 500g,Fresh Produce,2023-10-05,37,2.54,2023-10-15,Available
+BATCH-10081,38707594619,Oasis Eau Minérale 1L,Beverages,2023-10-19,134,3.53,2024-03-11,Available
+BATCH-10082,35782835311,L'Oréal Dentifrice 250ml,Hygiene,2023-11-01,183,1.89,2024-12-22,Available
+BATCH-10083,36619969386,Galbani Yaourt Nature 1L,Dairy,2023-11-03,100,1.69,2023-12-05,Available
+BATCH-10084,38576957385,Tropicana Soda 1L,Beverages,2023-11-10,186,2.58,2024-07-04,Available
+BATCH-10085,33756903682,Tropicana Eau Minérale Pack 6x33cl,Beverages,2023-10-17,171,2.87,2024-02-17,Available
+BATCH-10086,32110788546,L'Oréal Déodorant Lot x2,Hygiene,2023-10-29,142,6.2,2025-08-15,Available
+BATCH-10087,34133700441,Lustucru Moutarde 1kg,Grocery (Dry),2023-11-13,184,4.57,2024-10-13,Available
+BATCH-10088,34563520421,Cristaline Jus d'Orange Canette 33cl,Beverages,2023-11-15,123,2.64,2024-05-21,Available
+BATCH-10089,31963633350,Harrys Brioche Tranchée 500g,Bakery,2023-10-20,24,1.6,2023-11-05,Available
+BATCH-10090,38385804858,Colgate Savon Liquide Lot x2,Hygiene,2023-11-12,113,7.16,2024-12-24,Available
+BATCH-10091,31401748259,Colgate Savon Liquide Bio,Hygiene,2023-11-14,122,6.1,2025-09-29,Available
+BATCH-10092,33342585791,Origine Espagne Salade 1kg,Fresh Produce,2023-11-06,22,2.83,2023-11-10,Available
+BATCH-10093,35708497851,Boulangerie Loc. Baguette Nature,Bakery,2023-10-10,14,1.26,2023-10-17,Available
+BATCH-10094,32569313569,Galbani Lait Demi-Ecrémé x4,Dairy,2023-10-14,65,1.58,2023-11-12,Available
+BATCH-10095,31367891353,Origine Espagne Tomates 500g,Fresh Produce,2023-10-30,39,2.38,2023-11-05,Available
+BATCH-10096,35657440275,Carrefour Bio Tomates 1kg,Fresh Produce,2023-11-08,27,3.65,2023-11-18,Available
+BATCH-10097,31080597681,La Boulangère Brioche Tranchée 500g,Bakery,2023-11-10,37,1.56,2023-11-19,Available
+BATCH-10098,36927327212,Panzani Haricots Verts 500g,Grocery (Dry),2023-11-08,68,3.24,2025-05-25,Available
+BATCH-10099,33876325915,Boulangerie Loc. Brioche Tranchée Complet,Bakery,2023-11-11,30,1.77,2023-11-25,Available
+BATCH-10100,34908614869,Origine France Bananes Vrac,Fresh Produce,2023-10-20,18,2.66,2023-10-29,Available
+BATCH-10101,34830962007,Oasis Eau Minérale Canette 33cl,Beverages,2023-11-06,130,2.76,2024-10-16,Available
+BATCH-10102,39923329298,Le Petit Marseillais Gel Douche Bio,Hygiene,2023-10-30,111,5.24,2025-06-11,Available
+BATCH-10103,34011099499,Yoplait Lait Demi-Ecrémé x4,Dairy,2023-10-07,81,2.61,2023-10-30,Available
+BATCH-10104,36927327212,Panzani Haricots Verts 500g,Grocery (Dry),2023-10-11,187,3.24,2025-04-27,Available
+BATCH-10105,32180152312,Carrefour Bio Pommes 1kg,Fresh Produce,2023-10-14,14,1.58,2023-10-19,Available
+BATCH-10106,38137390584,Oasis Jus d'Orange Canette 33cl,Beverages,2023-11-08,136,4.49,2024-02-26,Available
+BATCH-10107,34209102886,Boulangerie Loc. Brioche Tranchée Nature,Bakery,2023-10-18,18,1.86,2023-10-25,Available
+BATCH-10108,32326554850,Coca Cola Eau Minérale 1L,Beverages,2023-11-08,172,2.38,2024-08-30,Available
+BATCH-10109,31544118183,Carrefour Bio Pommes 1kg,Fresh Produce,2023-10-07,32,1.0,2023-10-11,Available
+BATCH-10110,36322528927,Nivea Dentifrice Lot x2,Hygiene,2023-11-02,121,6.16,2025-09-29,Available
+BATCH-10111,35419799260,Origine Espagne Pommes 500g,Fresh Produce,2023-10-06,24,1.56,2023-10-13,Available
+BATCH-10112,36760109368,La Boulangère Pain de Mie Nature,Bakery,2023-10-23,58,2.38,2023-11-13,Available
+BATCH-10113,39262059559,Signal Savon Liquide Bio,Hygiene,2023-10-13,103,5.94,2025-03-15,Available
+BATCH-10114,32097341849,Pasquier Baguette x10,Bakery,2023-10-27,16,1.97,2023-11-13,Available
+BATCH-10115,31388602067,Carrefour Bio Mozzarella 1L,Dairy,2023-10-08,153,1.54,2023-11-03,Available
+BATCH-10116,37374419360,Yoplait Mozzarella x4,Dairy,2023-10-30,196,2.36,2023-11-21,Available
+BATCH-10117,39788640918,Carrefour Bio Fromage Blanc 250g,Dairy,2023-11-02,140,3.43,2023-12-10,Available
+BATCH-10118,33788850299,Colgate Savon Liquide 250ml,Hygiene,2023-10-21,67,3.83,2024-11-15,Available
+BATCH-10119,32773610380,Priméale Carottes Sachet,Fresh Produce,2023-10-16,26,3.72,2023-10-20,Available
+BATCH-10120,32832204802,Maille Pâtes Bocal,Grocery (Dry),2023-10-15,121,0.92,2024-11-05,Available
+BATCH-10121,39817383852,Pasquier Pain de Mie x10,Bakery,2023-11-14,124,2.5,2023-12-04,Available
+BATCH-10122,36120838418,Carrefour Bio Lait Demi-Ecrémé x8,Dairy,2023-11-01,68,2.0,2023-12-09,Available
+BATCH-10123,31388604240,Colgate Gel Douche 250ml,Hygiene,2023-11-01,122,4.36,2025-03-30,Available
+BATCH-10124,36473369981,Danone Mozzarella 1L,Dairy,2023-11-08,61,2.46,2023-11-30,Available
+BATCH-10125,32271134947,Origine France Bananes 1kg,Fresh Produce,2023-11-05,29,3.8,2023-11-11,Available
+BATCH-10126,31622374270,Heineken Jus d'Orange Canette 33cl,Beverages,2023-11-02,143,1.99,2024-10-23,Available
+BATCH-10127,31932002492,Origine Espagne Carottes Sachet,Fresh Produce,2023-10-06,32,1.41,2023-10-14,Available
+BATCH-10128,35439639777,La Boulangère Baguette Complet,Bakery,2023-10-03,33,1.25,2023-10-12,Available
+BATCH-10129,37583560088,Cristaline Thé Glacé Pack 6x33cl,Beverages,2023-10-13,194,1.87,2024-10-09,Available
+BATCH-10130,36940587890,Carrefour Bio Lait Demi-Ecrémé 500g,Dairy,2023-10-06,194,2.19,2023-11-12,Available
+BATCH-10131,33223759294,Carrefour Bio Carottes 1kg,Fresh Produce,2023-10-19,39,2.24,2023-10-29,Available
+BATCH-10132,38290721923,Carrefour Bio Yaourt Nature 250g,Dairy,2023-11-09,131,3.45,2023-12-01,Available
+BATCH-10133,39160699288,Origine France Tomates Sachet,Fresh Produce,2023-10-01,18,3.55,2023-10-09,Available
+BATCH-10134,39065603090,Barilla Pâtes 500g,Grocery (Dry),2023-11-10,59,2.94,2025-07-22,Available
+BATCH-10135,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-10-23,85,1.68,2024-08-26,Available
+BATCH-10136,31976884178,Harrys Pain de Mie Nature,Bakery,2023-11-08,34,0.81,2023-11-16,Available
+BATCH-10137,34193870705,Origine France Bananes Vrac,Fresh Produce,2023-10-27,24,1.27,2023-11-05,Available
+BATCH-10138,34309939935,Pasquier Baguette 500g,Bakery,2023-10-30,23,0.96,2023-11-06,Available
+BATCH-10139,37860955759,Panzani Pâtes Bocal,Grocery (Dry),2023-10-08,143,3.17,2025-08-26,Available
+BATCH-10140,33291412661,Origine France Salade 1kg,Fresh Produce,2023-11-11,32,3.3,2023-11-19,Available
+BATCH-10141,31558528202,Origine Espagne Carottes Vrac,Fresh Produce,2023-11-08,27,1.4,2023-11-18,Available
+BATCH-10142,37103597186,Carrefour Bio Pommes Sachet,Fresh Produce,2023-10-04,15,2.59,2023-10-14,Available
+BATCH-10143,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-10-30,134,2.9,2023-11-22,Available
+BATCH-10144,31500430089,Nivea Savon Liquide Lot x2,Hygiene,2023-10-27,56,2.43,2025-06-09,Available
+BATCH-10145,35709140812,L'Oréal Déodorant Bio,Hygiene,2023-10-27,166,2.56,2025-07-09,Available
+BATCH-10146,38078683065,Origine Espagne Tomates Sachet,Fresh Produce,2023-11-05,27,3.05,2023-11-13,Available
+BATCH-10147,32463769334,Heineken Thé Glacé 1L,Beverages,2023-10-02,88,3.05,2024-06-18,Available
+BATCH-10148,36977853668,Dove Savon Liquide Lot x2,Hygiene,2023-10-03,76,5.41,2025-02-08,Available
+BATCH-10149,31305660877,Origine France Tomates 500g,Fresh Produce,2023-10-06,20,3.01,2023-10-12,Available
+BATCH-10150,32271134947,Origine France Bananes 1kg,Fresh Produce,2023-11-07,37,3.8,2023-11-13,Available
+BATCH-10151,39217239484,Carrefour Bio Courgettes Sachet,Fresh Produce,2023-11-10,15,2.66,2023-11-18,Available
+BATCH-10152,37714651650,Origine France Tomates Vrac,Fresh Produce,2023-10-23,37,2.39,2023-10-30,Available
+BATCH-10153,36292273786,Nivea Gel Douche 250ml,Hygiene,2023-10-14,159,3.27,2025-07-13,Available
+BATCH-10154,31544118183,Carrefour Bio Pommes 1kg,Fresh Produce,2023-10-04,40,1.0,2023-10-08,Available
+BATCH-10155,35258923440,Tropicana Soda 1.5L,Beverages,2023-10-07,143,0.65,2024-01-13,Available
+BATCH-10156,36927327212,Panzani Haricots Verts 500g,Grocery (Dry),2023-10-31,123,3.24,2025-05-17,Available
+BATCH-10157,36948503442,Danone Beurre Doux 1L,Dairy,2023-10-05,140,2.85,2023-10-27,Available
+BATCH-10158,35257617625,Panzani Pâtes 500g,Grocery (Dry),2023-10-04,107,3.11,2025-04-23,Available
+BATCH-10159,31707411122,Priméale Courgettes Sachet,Fresh Produce,2023-11-05,35,3.07,2023-11-09,Available
+BATCH-10160,36097901750,Maille Mayonnaise 500g,Grocery (Dry),2023-10-30,86,1.62,2024-07-13,Available
+BATCH-10161,35597187111,Dove Déodorant Lot x2,Hygiene,2023-11-02,88,6.01,2025-08-24,Available
+BATCH-10162,37374419360,Yoplait Mozzarella x4,Dairy,2023-11-03,84,2.36,2023-11-25,Available
+BATCH-10163,33343500027,Boulangerie Loc. Croissants x10,Bakery,2023-11-10,31,2.17,2023-11-21,Available
+BATCH-10164,39817383852,Pasquier Pain de Mie x10,Bakery,2023-11-02,107,2.5,2023-11-22,Available
+BATCH-10165,31976884178,Harrys Pain de Mie Nature,Bakery,2023-10-14,20,0.81,2023-10-22,Available
+BATCH-10166,31729261985,Boulangerie Loc. Brioche Tranchée x10,Bakery,2023-10-14,24,1.51,2023-10-29,Available
+BATCH-10167,36292273786,Nivea Gel Douche 250ml,Hygiene,2023-11-07,89,3.27,2025-08-06,Available
+BATCH-10168,33290515782,Signal Dentifrice Bio,Hygiene,2023-10-13,194,6.1,2025-07-29,Available
+BATCH-10169,33524180650,Danone Yaourt Nature 500g,Dairy,2023-10-28,183,3.16,2023-12-01,Available
+BATCH-10170,35350562057,Nivea Savon Liquide 400ml,Hygiene,2023-11-05,122,6.06,2025-08-04,Available
+BATCH-10171,35691959659,Le Petit Marseillais Savon Liquide Lot x2,Hygiene,2023-10-08,151,2.52,2024-12-10,Available
+BATCH-10172,39027169495,Panzani Mayonnaise 1kg,Grocery (Dry),2023-10-28,101,2.14,2025-07-19,Available
+BATCH-10173,38452899947,Carrefour Bio Yaourt Nature 250g,Dairy,2023-10-05,78,2.53,2023-11-10,Available
+BATCH-10174,32110788546,L'Oréal Déodorant Lot x2,Hygiene,2023-10-13,102,6.2,2025-07-30,Available
+BATCH-10175,32761795089,Origine France Tomates Vrac,Fresh Produce,2023-10-05,19,2.43,2023-10-14,Available
+BATCH-10176,35155937453,Oasis Jus d'Orange Pack 6x33cl,Beverages,2023-10-27,197,1.03,2024-02-27,Available
+BATCH-10177,34816618234,Carrefour Bio Yaourt Nature 250g,Dairy,2023-10-22,143,2.78,2023-11-28,Available
+BATCH-10178,36760109368,La Boulangère Pain de Mie Nature,Bakery,2023-10-05,193,2.38,2023-10-26,Available
+BATCH-10179,33596128295,Volvic Eau Minérale 1.5L,Beverages,2023-10-27,140,0.45,2024-05-18,Available
+BATCH-10180,39548833643,Boulangerie Loc. Brioche Tranchée x6,Bakery,2023-10-12,34,1.86,2023-10-29,Available
+BATCH-10181,39681016344,Amora Sauce Tomate 500g,Grocery (Dry),2023-10-09,161,2.26,2025-06-02,Available
+BATCH-10182,36835516046,Priméale Carottes 500g,Fresh Produce,2023-10-26,26,1.47,2023-11-04,Available
+BATCH-10183,36822968879,Le Petit Marseillais Gel Douche 400ml,Hygiene,2023-10-26,120,3.8,2024-11-28,Available
+BATCH-10184,38756683532,Pasquier Pain de Mie 500g,Bakery,2023-11-14,27,1.94,2023-11-24,Available
+BATCH-10185,34411527045,Dove Gel Douche Bio,Hygiene,2023-10-28,50,2.67,2025-01-27,Available
+BATCH-10186,32261700764,Nivea Dentifrice 250ml,Hygiene,2023-10-08,125,5.07,2024-10-24,Available
+BATCH-10187,32419630311,Tropicana Soda 1L,Beverages,2023-10-27,65,4.49,2024-10-10,Available
+BATCH-10188,36230952734,Tropicana Soda Pack 6x33cl,Beverages,2023-10-04,82,2.43,2024-08-13,Available
+BATCH-10189,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-10-23,56,2.9,2023-11-15,Available
+BATCH-10190,36338992958,Origine France Bananes Sachet,Fresh Produce,2023-10-13,38,2.02,2023-10-17,Available
+BATCH-10191,38637500805,Priméale Salade 1kg,Fresh Produce,2023-11-04,12,0.76,2023-11-14,Available
+BATCH-10192,33223759294,Carrefour Bio Carottes 1kg,Fresh Produce,2023-10-28,34,2.24,2023-11-07,Available
+BATCH-10193,35654032531,Origine Espagne Pommes 500g,Fresh Produce,2023-11-14,38,1.78,2023-11-24,Available
+BATCH-10194,38264431380,Coca Cola Eau Minérale 1L,Beverages,2023-10-18,170,4.91,2024-04-21,Available
+BATCH-10195,32054130921,La Boulangère Baguette Complet,Bakery,2023-11-15,22,2.37,2023-12-04,Available
+BATCH-10196,33926817704,La Boulangère Pain de Mie Nature,Bakery,2023-10-30,12,2.48,2023-11-16,Available
+BATCH-10197,36914217765,Elle & Vire Lait Demi-Ecrémé 250g,Dairy,2023-10-29,192,2.77,2023-11-19,Available
+BATCH-10198,35381735364,Origine Espagne Bananes 1kg,Fresh Produce,2023-10-03,28,2.49,2023-10-07,Available
+BATCH-10199,31469742821,Lustucru Mayonnaise 500g,Grocery (Dry),2023-10-14,200,2.43,2024-04-14,Available
+BATCH-10200,31273042950,Volvic Thé Glacé Canette 33cl,Beverages,2023-10-30,89,3.76,2024-07-15,Available
+BATCH-10201,34722553343,Priméale Tomates 500g,Fresh Produce,2023-10-10,39,2.84,2023-10-15,Available
+BATCH-10202,36230952734,Tropicana Soda Pack 6x33cl,Beverages,2023-11-06,96,2.43,2024-09-15,Available
+BATCH-10203,38290721923,Carrefour Bio Yaourt Nature 250g,Dairy,2023-11-09,98,3.45,2023-12-01,Available
+BATCH-10204,35170594822,Oasis Bière Blonde Canette 33cl,Beverages,2023-10-05,177,1.74,2024-03-07,Available
+BATCH-10205,36696006168,Origine France Pommes 500g,Fresh Produce,2023-10-03,15,3.86,2023-10-13,Available
+BATCH-10206,33129232113,Carrefour Bio Salade 1kg,Fresh Produce,2023-10-15,24,2.0,2023-10-20,Available
+BATCH-10207,31430613137,L'Oréal Savon Liquide 250ml,Hygiene,2023-10-19,72,8.16,2024-11-06,Available
+BATCH-10208,32337419656,Evian Jus d'Orange 1L,Beverages,2023-10-07,148,2.4,2024-05-21,Available
+BATCH-10209,36202727839,Colgate Savon Liquide Lot x2,Hygiene,2023-10-16,155,3.48,2025-06-15,Available
+BATCH-10210,33239269085,Origine France Courgettes 500g,Fresh Produce,2023-11-11,20,1.51,2023-11-17,Available
+BATCH-10211,34524620209,Galbani Mozzarella x4,Dairy,2023-10-21,74,1.38,2023-11-20,Available
+BATCH-10212,36822968879,Le Petit Marseillais Gel Douche 400ml,Hygiene,2023-10-24,84,3.8,2024-11-26,Available
+BATCH-10213,39110362849,Barilla Riz Basmati Tube,Grocery (Dry),2023-10-17,191,4.05,2024-07-17,Available
+BATCH-10214,39179119979,Origine Espagne Courgettes 1kg,Fresh Produce,2023-10-20,35,2.29,2023-10-24,Available
+BATCH-10215,36161871191,Cristaline Jus d'Orange Canette 33cl,Beverages,2023-10-24,53,3.79,2024-08-07,Available
+BATCH-10216,39798979014,Amora Haricots Verts 1kg,Grocery (Dry),2023-11-01,142,2.75,2025-08-06,Available
+BATCH-10217,34072795089,L'Oréal Dentifrice 250ml,Hygiene,2023-11-14,92,3.56,2024-11-28,Available
+BATCH-10218,34524620209,Galbani Mozzarella x4,Dairy,2023-10-02,86,1.38,2023-11-01,Available
+BATCH-10219,38800236172,Carrefour Bio Mozzarella x4,Dairy,2023-10-14,119,2.61,2023-11-18,Available
+BATCH-10220,34932168341,Lustucru Haricots Verts Tube,Grocery (Dry),2023-11-08,192,2.53,2024-10-06,Available
+BATCH-10221,36434255808,Volvic Bière Blonde Pack 6x33cl,Beverages,2023-11-02,77,5.89,2024-03-21,Available
+BATCH-10222,33483980197,Carrefour Bio Beurre Doux 1L,Dairy,2023-10-15,192,2.46,2023-11-10,Available
+BATCH-10223,36943759175,Evian Thé Glacé 1L,Beverages,2023-10-12,58,2.5,2024-10-09,Available
+BATCH-10224,36835516046,Priméale Carottes 500g,Fresh Produce,2023-11-03,26,1.47,2023-11-12,Available
+BATCH-10225,39152663033,L'Oréal Gel Douche Lot x2,Hygiene,2023-10-20,200,4.59,2024-12-09,Available
+BATCH-10226,34932168341,Lustucru Haricots Verts Tube,Grocery (Dry),2023-10-06,134,2.53,2024-09-03,Available
+BATCH-10227,37180617493,Origine France Bananes 500g,Fresh Produce,2023-11-10,33,3.23,2023-11-14,Available
+BATCH-10228,37128743207,Origine France Pommes 1kg,Fresh Produce,2023-10-11,19,2.69,2023-10-17,Available
+BATCH-10229,32243029614,Origine France Salade 500g,Fresh Produce,2023-10-27,10,1.73,2023-11-03,Available
+BATCH-10230,35056842032,Lustucru Sauce Tomate 1kg,Grocery (Dry),2023-10-28,97,4.71,2024-06-28,Available
+BATCH-10231,32773785009,Volvic Thé Glacé Canette 33cl,Beverages,2023-10-13,162,4.56,2024-05-04,Available
+BATCH-10232,35257617625,Panzani Pâtes 500g,Grocery (Dry),2023-10-11,108,3.11,2025-04-30,Available
+BATCH-10233,31303192976,Maille Riz Basmati Bocal,Grocery (Dry),2023-10-21,72,0.92,2025-08-24,Available
+BATCH-10234,39087383512,Heineken Jus d'Orange Pack 6x33cl,Beverages,2023-10-13,97,4.53,2024-04-20,Available
+BATCH-10235,35607063393,Barilla Sauce Tomate 500g,Grocery (Dry),2023-11-06,114,3.91,2025-09-28,Available
+BATCH-10236,38756683532,Pasquier Pain de Mie 500g,Bakery,2023-10-12,30,1.94,2023-10-22,Available
+BATCH-10237,36473369981,Danone Mozzarella 1L,Dairy,2023-10-01,121,2.46,2023-10-23,Available
+BATCH-10238,35391754402,Nutella Moutarde 500g,Grocery (Dry),2023-11-08,57,3.32,2025-06-26,Available
+BATCH-10239,38429162897,Carrefour Bio Carottes 500g,Fresh Produce,2023-10-24,20,3.72,2023-11-01,Available
+BATCH-10240,37570684353,Origine France Salade 500g,Fresh Produce,2023-10-23,35,3.47,2023-10-29,Available
+BATCH-10241,38166080536,Président Crème Fraîche x4,Dairy,2023-10-17,154,1.26,2023-11-14,Available
+BATCH-10242,37450140191,Galbani Mozzarella x4,Dairy,2023-11-03,105,1.23,2023-11-27,Available
+BATCH-10243,34411527045,Dove Gel Douche Bio,Hygiene,2023-10-03,102,2.67,2025-01-02,Available
+BATCH-10244,39158117811,Colgate Savon Liquide 250ml,Hygiene,2023-10-29,128,4.69,2024-12-19,Available
+BATCH-10245,38345722340,Panzani Haricots Verts Bocal,Grocery (Dry),2023-10-07,129,3.62,2024-12-24,Available
+BATCH-10246,39341128173,Carrefour Bio Tomates Sachet,Fresh Produce,2023-10-07,20,3.6,2023-10-15,Available
+BATCH-10247,36004118941,Carrefour Bio Tomates Vrac,Fresh Produce,2023-10-18,22,3.3,2023-10-22,Available
+BATCH-10248,31072475072,Galbani Lait Demi-Ecrémé x4,Dairy,2023-10-30,152,2.54,2023-11-23,Available
+BATCH-10249,38086019361,Amora Riz Basmati 1kg,Grocery (Dry),2023-10-02,82,0.73,2025-02-26,Available
+BATCH-10250,36983276442,Pasquier Baguette x10,Bakery,2023-10-01,22,2.09,2023-10-08,Available
+BATCH-10251,31897570663,Signal Shampoing Lot x2,Hygiene,2023-11-02,51,5.95,2025-07-02,Available
+BATCH-10252,37714651650,Origine France Tomates Vrac,Fresh Produce,2023-10-15,20,2.39,2023-10-22,Available
+BATCH-10253,36230952734,Tropicana Soda Pack 6x33cl,Beverages,2023-11-05,186,2.43,2024-09-14,Available
+BATCH-10254,39530224970,Cristaline Bière Blonde 1L,Beverages,2023-11-05,196,5.56,2024-04-19,Available
+BATCH-10255,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-10-04,171,2.9,2023-10-27,Available
+BATCH-10256,32097341849,Pasquier Baguette x10,Bakery,2023-10-10,40,1.97,2023-10-27,Available
+BATCH-10257,33102103048,Coca Cola Jus d'Orange 1L,Beverages,2023-10-25,188,0.65,2024-09-29,Available
+BATCH-10258,39625835243,Oasis Eau Minérale Pack 6x33cl,Beverages,2023-10-10,152,1.72,2024-09-29,Available
+BATCH-10259,32463769334,Heineken Thé Glacé 1L,Beverages,2023-10-09,170,3.05,2024-06-25,Available
+BATCH-10260,31303192976,Maille Riz Basmati Bocal,Grocery (Dry),2023-11-04,160,0.92,2025-09-07,Available
+BATCH-10261,34150745742,Volvic Thé Glacé 1.5L,Beverages,2023-10-17,110,4.94,2024-01-31,Available
+BATCH-10262,34940074701,Heineken Soda 1L,Beverages,2023-11-13,55,2.28,2024-05-22,Available
+BATCH-10263,34309939935,Pasquier Baguette 500g,Bakery,2023-10-06,26,0.96,2023-10-13,Available
+BATCH-10264,31473493543,Nivea Gel Douche Bio,Hygiene,2023-10-17,160,2.11,2025-05-19,Available
+BATCH-10265,36415504471,Origine France Pommes 1kg,Fresh Produce,2023-10-17,36,3.33,2023-10-21,Available
+BATCH-10266,36434255808,Volvic Bière Blonde Pack 6x33cl,Beverages,2023-10-07,62,5.89,2024-02-24,Available
+BATCH-10267,39781714639,Origine Espagne Bananes 500g,Fresh Produce,2023-11-01,15,3.91,2023-11-06,Available
+BATCH-10268,34452330498,Evian Thé Glacé 1.5L,Beverages,2023-10-24,113,4.33,2024-07-12,Available
+BATCH-10269,35709140812,L'Oréal Déodorant Bio,Hygiene,2023-11-11,66,2.56,2025-07-24,Available
+BATCH-10270,39158117811,Colgate Savon Liquide 250ml,Hygiene,2023-10-22,72,4.69,2024-12-12,Available
+BATCH-10271,31544118183,Carrefour Bio Pommes 1kg,Fresh Produce,2023-11-09,20,1.0,2023-11-13,Available
+BATCH-10272,36983276442,Pasquier Baguette x10,Bakery,2023-10-28,15,2.09,2023-11-04,Available
+BATCH-10273,36378322019,Evian Bière Blonde 1L,Beverages,2023-11-02,122,0.76,2024-08-25,Available
+BATCH-10274,36415504471,Origine France Pommes 1kg,Fresh Produce,2023-10-24,19,3.33,2023-10-28,Available
+BATCH-10275,38708048323,Barilla Haricots Verts 500g,Grocery (Dry),2023-10-03,121,4.46,2024-05-19,Available
+BATCH-10276,34932168341,Lustucru Haricots Verts Tube,Grocery (Dry),2023-11-01,105,2.53,2024-09-29,Available
+BATCH-10277,31999968098,Boulangerie Loc. Baguette Complet,Bakery,2023-10-27,36,1.95,2023-11-14,Available
+BATCH-10278,36245858278,Origine Espagne Courgettes 1kg,Fresh Produce,2023-10-10,11,3.15,2023-10-20,Available
+BATCH-10279,39401067751,Origine Espagne Tomates 500g,Fresh Produce,2023-10-20,24,2.54,2023-10-30,Available
+BATCH-10280,36012005258,Origine France Tomates 500g,Fresh Produce,2023-10-06,21,1.29,2023-10-11,Available
+BATCH-10281,34309939935,Pasquier Baguette 500g,Bakery,2023-10-16,19,0.96,2023-10-23,Available
+BATCH-10282,31305660877,Origine France Tomates 500g,Fresh Produce,2023-10-11,10,3.01,2023-10-17,Available
+BATCH-10283,39087383512,Heineken Jus d'Orange Pack 6x33cl,Beverages,2023-10-07,121,4.53,2024-04-14,Available
+BATCH-10284,39152663033,L'Oréal Gel Douche Lot x2,Hygiene,2023-10-08,187,4.59,2024-11-27,Available
+BATCH-10285,37103597186,Carrefour Bio Pommes Sachet,Fresh Produce,2023-11-03,20,2.59,2023-11-13,Available
+BATCH-10286,36097901750,Maille Mayonnaise 500g,Grocery (Dry),2023-10-30,108,1.62,2024-07-13,Available
+BATCH-10287,34100651966,Carrefour Bio Lait Demi-Ecrémé 1L,Dairy,2023-10-04,95,1.62,2023-10-25,Available
+BATCH-10288,34989033428,Yoplait Crème Fraîche 500g,Dairy,2023-11-14,171,1.44,2023-12-05,Available
+BATCH-10289,31469742821,Lustucru Mayonnaise 500g,Grocery (Dry),2023-11-04,140,2.43,2024-05-05,Available
+BATCH-10290,34371503943,Pasquier Pains au Chocolat Nature,Bakery,2023-11-12,108,1.37,2023-12-03,Available
+BATCH-10291,39853324327,La Boulangère Baguette x6,Bakery,2023-10-16,15,0.85,2023-10-23,Available
+BATCH-10292,34133700441,Lustucru Moutarde 1kg,Grocery (Dry),2023-10-14,176,4.57,2024-09-13,Available
+BATCH-10293,31080597681,La Boulangère Brioche Tranchée 500g,Bakery,2023-11-15,17,1.56,2023-11-24,Available
+BATCH-10294,37869333328,Signal Dentifrice Lot x2,Hygiene,2023-11-03,158,4.72,2025-05-15,Available
+BATCH-10295,32941877250,Elle & Vire Fromage Blanc x4,Dairy,2023-10-13,192,2.89,2023-11-06,Available
+BATCH-10296,38013059046,Amora Riz Basmati Bocal,Grocery (Dry),2023-11-07,180,1.84,2024-11-04,Available
+BATCH-10297,32474719000,Harrys Brioche Tranchée 500g,Bakery,2023-10-11,15,2.36,2023-10-18,Available
+BATCH-10298,36505826161,Nivea Gel Douche 400ml,Hygiene,2023-10-01,183,6.64,2025-04-25,Available
+BATCH-10299,38886691421,Nivea Dentifrice Lot x2,Hygiene,2023-11-14,134,5.09,2025-07-14,Available
+BATCH-10300,36107570150,Harrys Brioche Tranchée 500g,Bakery,2023-10-14,113,1.09,2023-11-04,Available
+BATCH-10301,34365798696,Origine France Carottes Sachet,Fresh Produce,2023-10-12,34,3.12,2023-10-22,Available
+BATCH-10302,33784342286,Barilla Haricots Verts Bocal,Grocery (Dry),2023-10-27,89,1.17,2025-02-17,Available
+BATCH-10303,39798979014,Amora Haricots Verts 1kg,Grocery (Dry),2023-11-02,194,2.75,2025-08-07,Available
+BATCH-10304,34932168341,Lustucru Haricots Verts Tube,Grocery (Dry),2023-11-12,142,2.53,2024-10-10,Available
+BATCH-10305,32424754730,L'Oréal Savon Liquide Lot x2,Hygiene,2023-10-02,152,5.83,2025-07-23,Available
+BATCH-10306,37497827117,Cristaline Eau Minérale 1.5L,Beverages,2023-10-14,81,0.69,2024-04-13,Available
+BATCH-10307,32550063513,Yoplait Yaourt Nature 1L,Dairy,2023-10-16,149,2.94,2023-11-05,Available
+BATCH-10308,36161871191,Cristaline Jus d'Orange Canette 33cl,Beverages,2023-10-16,84,3.79,2024-07-30,Available
+BATCH-10309,31120351799,Oasis Soda 1.5L,Beverages,2023-11-02,80,1.05,2024-04-12,Available
+BATCH-10310,36322528927,Nivea Dentifrice Lot x2,Hygiene,2023-10-09,137,6.16,2025-09-05,Available
+BATCH-10311,39217239484,Carrefour Bio Courgettes Sachet,Fresh Produce,2023-10-13,30,2.66,2023-10-21,Available
+BATCH-10312,31388602067,Carrefour Bio Mozzarella 1L,Dairy,2023-11-10,198,1.54,2023-12-06,Available
+BATCH-10313,35187588879,Lustucru Pâtes 500g,Grocery (Dry),2023-10-02,74,2.08,2025-06-19,Available
+BATCH-10314,34022398294,Origine France Courgettes Vrac,Fresh Produce,2023-10-24,23,1.64,2023-10-28,Available
+BATCH-10315,39769677648,Tropicana Bière Blonde Canette 33cl,Beverages,2023-10-01,152,1.84,2024-01-26,Available
+BATCH-10316,37201079685,Galbani Beurre Doux 1L,Dairy,2023-10-01,117,3.19,2023-11-03,Available
+BATCH-10317,32741108066,Priméale Courgettes 500g,Fresh Produce,2023-10-23,13,1.16,2023-10-29,Available
+BATCH-10318,32180152312,Carrefour Bio Pommes 1kg,Fresh Produce,2023-11-08,28,1.58,2023-11-13,Available
+BATCH-10319,33442058362,L'Oréal Gel Douche Bio,Hygiene,2023-10-17,161,3.79,2025-04-17,Available
+BATCH-10320,34827331558,Maille Pâtes 1kg,Grocery (Dry),2023-10-22,103,1.88,2025-01-28,Available
+BATCH-10321,31558528202,Origine Espagne Carottes Vrac,Fresh Produce,2023-11-01,24,1.4,2023-11-11,Available
+BATCH-10322,34022398294,Origine France Courgettes Vrac,Fresh Produce,2023-10-16,11,1.64,2023-10-20,Available
+BATCH-10323,38030342780,Barilla Mayonnaise Bocal,Grocery (Dry),2023-11-11,108,0.93,2025-07-04,Available
+BATCH-10324,35709140812,L'Oréal Déodorant Bio,Hygiene,2023-10-29,61,2.56,2025-07-11,Available
+BATCH-10325,32463769334,Heineken Thé Glacé 1L,Beverages,2023-10-19,140,3.05,2024-07-05,Available
+BATCH-10326,37181334783,La Boulangère Pain de Mie x10,Bakery,2023-11-07,40,2.07,2023-11-21,Available
+BATCH-10327,31976884178,Harrys Pain de Mie Nature,Bakery,2023-10-17,20,0.81,2023-10-25,Available
+BATCH-10328,35391754402,Nutella Moutarde 500g,Grocery (Dry),2023-11-11,139,3.32,2025-06-29,Available
+BATCH-10329,39100274135,L'Oréal Shampoing 400ml,Hygiene,2023-11-13,182,2.35,2025-04-02,Available
+BATCH-10330,36505826161,Nivea Gel Douche 400ml,Hygiene,2023-10-18,94,6.64,2025-05-12,Available
+BATCH-10331,35540466839,Yoplait Beurre Doux 1L,Dairy,2023-11-05,183,2.94,2023-12-04,Available
+BATCH-10332,35860147761,Origine Espagne Pommes 1kg,Fresh Produce,2023-11-03,22,0.76,2023-11-11,Available
+BATCH-10333,35870954673,La Boulangère Brioche Tranchée x10,Bakery,2023-10-18,11,1.5,2023-10-29,Available
+BATCH-10334,39548833643,Boulangerie Loc. Brioche Tranchée x6,Bakery,2023-11-12,21,1.86,2023-11-29,Available
+BATCH-10335,32326554850,Coca Cola Eau Minérale 1L,Beverages,2023-10-09,84,2.38,2024-07-31,Available
+BATCH-10336,31217677892,Nutella Moutarde 1kg,Grocery (Dry),2023-11-06,199,2.33,2024-06-14,Available
+BATCH-10337,37874442697,Président Fromage Blanc 500g,Dairy,2023-10-31,59,1.23,2023-11-21,Available
+BATCH-10338,35805428235,Elle & Vire Lait Demi-Ecrémé 500g,Dairy,2023-10-30,85,1.78,2023-12-05,Available
+BATCH-10339,33711115696,Evian Bière Blonde 1L,Beverages,2023-10-12,105,4.32,2024-08-24,Available
+BATCH-10340,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-11-10,69,1.24,2024-06-28,Available
+BATCH-10341,32908562232,Carrefour Bio Fromage Blanc x4,Dairy,2023-11-04,160,2.2,2023-12-07,Available
+BATCH-10342,36392409038,Harrys Brioche Tranchée 500g,Bakery,2023-10-04,16,2.29,2023-10-18,Available
+BATCH-10343,35987612832,Elle & Vire Crème Fraîche 250g,Dairy,2023-10-23,172,3.11,2023-11-16,Available
+BATCH-10344,31842183810,Signal Déodorant 250ml,Hygiene,2023-10-21,112,4.54,2025-04-04,Available
+BATCH-10345,34042625132,Nivea Shampoing 250ml,Hygiene,2023-10-08,77,5.14,2024-12-19,Available
+BATCH-10346,31995287718,Pasquier Croissants x10,Bakery,2023-11-04,35,1.64,2023-11-21,Available
+BATCH-10347,38345722340,Panzani Haricots Verts Bocal,Grocery (Dry),2023-11-12,105,3.62,2025-01-29,Available
+BATCH-10348,32773785009,Volvic Thé Glacé Canette 33cl,Beverages,2023-10-22,157,4.56,2024-05-13,Available
+BATCH-10349,31243096245,Barilla Haricots Verts 1kg,Grocery (Dry),2023-10-23,78,3.07,2025-02-12,Available
+BATCH-10350,35502652808,Panzani Haricots Verts Bocal,Grocery (Dry),2023-10-16,56,0.84,2024-06-19,Available
+BATCH-10351,39052705187,Pasquier Baguette 500g,Bakery,2023-10-22,23,1.82,2023-11-04,Available
+BATCH-10352,32331627739,Panzani Riz Basmati Tube,Grocery (Dry),2023-11-04,85,1.1,2025-06-10,Available
+BATCH-10353,36201124893,Pasquier Croissants 500g,Bakery,2023-10-25,12,1.05,2023-11-09,Available
+BATCH-10354,36071655820,Nivea Shampoing Lot x2,Hygiene,2023-10-17,182,7.34,2025-04-03,Available
+BATCH-10355,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-11-01,187,1.68,2024-09-04,Available
+BATCH-10356,32932670539,L'Oréal Déodorant Bio,Hygiene,2023-11-03,87,3.37,2024-11-22,Available
+BATCH-10357,38429162897,Carrefour Bio Carottes 500g,Fresh Produce,2023-10-19,29,3.72,2023-10-27,Available
+BATCH-10358,38430919006,Panzani Riz Basmati Tube,Grocery (Dry),2023-10-25,115,2.12,2024-08-29,Available
+BATCH-10359,31388604240,Colgate Gel Douche 250ml,Hygiene,2023-11-13,87,4.36,2025-04-11,Available
+BATCH-10360,38064170907,Boulangerie Loc. Pain de Mie 500g,Bakery,2023-11-08,23,1.18,2023-11-27,Available
+BATCH-10361,37424317166,Panzani Riz Basmati 500g,Grocery (Dry),2023-11-05,146,3.39,2025-01-16,Available
+BATCH-10362,35981114390,Amora Mayonnaise 500g,Grocery (Dry),2023-10-19,156,1.9,2024-06-12,Available
+BATCH-10363,39661226430,Pasquier Croissants Complet,Bakery,2023-10-16,38,2.71,2023-11-03,Available
+BATCH-10364,33845959382,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-11-01,82,6.27,2025-01-05,Available
+BATCH-10365,36012005258,Origine France Tomates 500g,Fresh Produce,2023-11-15,40,1.29,2023-11-20,Available
+BATCH-10366,38264431380,Coca Cola Eau Minérale 1L,Beverages,2023-10-11,75,4.91,2024-04-14,Available
+BATCH-10367,36322528927,Nivea Dentifrice Lot x2,Hygiene,2023-10-09,146,6.16,2025-09-05,Available
+BATCH-10368,37582874363,Maille Mayonnaise Tube,Grocery (Dry),2023-11-15,58,1.37,2025-01-19,Available
+BATCH-10369,39401067751,Origine Espagne Tomates 500g,Fresh Produce,2023-10-21,15,2.54,2023-10-31,Available
+BATCH-10370,38234795411,Bonduelle Riz Basmati 500g,Grocery (Dry),2023-10-11,142,0.8,2025-05-11,Available
+BATCH-10371,36303633612,Carrefour Bio Carottes Vrac,Fresh Produce,2023-10-24,10,1.86,2023-10-28,Available
+BATCH-10372,35170594822,Oasis Bière Blonde Canette 33cl,Beverages,2023-10-05,55,1.74,2024-03-07,Available
+BATCH-10373,33510102708,Priméale Courgettes 1kg,Fresh Produce,2023-10-16,10,1.27,2023-10-23,Available
+BATCH-10374,39100274135,L'Oréal Shampoing 400ml,Hygiene,2023-11-12,151,2.35,2025-04-01,Available
+BATCH-10375,34100651966,Carrefour Bio Lait Demi-Ecrémé 1L,Dairy,2023-10-02,88,1.62,2023-10-23,Available
+BATCH-10376,32908562232,Carrefour Bio Fromage Blanc x4,Dairy,2023-10-09,131,2.2,2023-11-11,Available
+BATCH-10377,37181334783,La Boulangère Pain de Mie x10,Bakery,2023-10-30,37,2.07,2023-11-13,Available
+BATCH-10378,39052705187,Pasquier Baguette 500g,Bakery,2023-10-29,24,1.82,2023-11-11,Available
+BATCH-10379,37874442697,Président Fromage Blanc 500g,Dairy,2023-10-10,149,1.23,2023-10-31,Available
+BATCH-10380,32705569110,Origine France Carottes 500g,Fresh Produce,2023-10-04,36,1.22,2023-10-09,Available
+BATCH-10381,37136892462,Harrys Croissants Nature,Bakery,2023-10-23,10,1.6,2023-11-06,Available
+BATCH-10382,39796590038,Carrefour Bio Lait Demi-Ecrémé 250g,Dairy,2023-11-02,75,2.74,2023-12-10,Available
+BATCH-10383,38707594619,Oasis Eau Minérale 1L,Beverages,2023-11-08,141,3.53,2024-03-31,Available
+BATCH-10384,31622374270,Heineken Jus d'Orange Canette 33cl,Beverages,2023-10-13,53,1.99,2024-10-03,Available
+BATCH-10385,36589036315,Barilla Riz Basmati 500g,Grocery (Dry),2023-11-11,145,3.49,2025-10-04,Available
+BATCH-10386,33876325915,Boulangerie Loc. Brioche Tranchée Complet,Bakery,2023-10-25,15,1.77,2023-11-08,Available
+BATCH-10387,35457701079,Priméale Pommes Sachet,Fresh Produce,2023-10-19,38,2.44,2023-10-26,Available
+BATCH-10388,39817383852,Pasquier Pain de Mie x10,Bakery,2023-10-16,135,2.5,2023-11-05,Available
+BATCH-10389,35708497851,Boulangerie Loc. Baguette Nature,Bakery,2023-10-29,14,1.26,2023-11-05,Available
+BATCH-10390,33596128295,Volvic Eau Minérale 1.5L,Beverages,2023-11-14,88,0.45,2024-06-05,Available
+BATCH-10391,35435901815,Boulangerie Loc. Pains au Chocolat x6,Bakery,2023-10-09,148,1.92,2023-10-30,Available
+BATCH-10392,32054130921,La Boulangère Baguette Complet,Bakery,2023-10-24,25,2.37,2023-11-12,Available
+BATCH-10393,36619969386,Galbani Yaourt Nature 1L,Dairy,2023-10-21,196,1.69,2023-11-22,Available
+BATCH-10394,32110788546,L'Oréal Déodorant Lot x2,Hygiene,2023-11-06,136,6.2,2025-08-23,Available
+BATCH-10395,31191704128,Origine Espagne Bananes Vrac,Fresh Produce,2023-10-19,34,1.41,2023-10-26,Available
+BATCH-10396,35899722671,Carrefour Bio Yaourt Nature x8,Dairy,2023-11-15,170,1.57,2023-12-19,Available
+BATCH-10397,33896254671,Priméale Tomates 500g,Fresh Produce,2023-10-28,27,0.89,2023-11-04,Available
+BATCH-10398,31544118183,Carrefour Bio Pommes 1kg,Fresh Produce,2023-10-11,18,1.0,2023-10-15,Available
+BATCH-10399,33518666683,Yoplait Fromage Blanc x8,Dairy,2023-11-08,87,1.24,2023-12-09,Available
+BATCH-10400,35987612832,Elle & Vire Crème Fraîche 250g,Dairy,2023-10-11,127,3.11,2023-11-04,Available
+BATCH-10401,35861921444,Boulangerie Loc. Brioche Tranchée Complet,Bakery,2023-11-09,31,1.04,2023-11-28,Available
+BATCH-10402,37006309476,La Boulangère Pain de Mie Complet,Bakery,2023-11-06,15,1.58,2023-11-19,Available
+BATCH-10403,36202727839,Colgate Savon Liquide Lot x2,Hygiene,2023-11-11,185,3.48,2025-07-11,Available
+BATCH-10404,31120351799,Oasis Soda 1.5L,Beverages,2023-11-05,99,1.05,2024-04-15,Available
+BATCH-10405,33793057972,Colgate Shampoing 400ml,Hygiene,2023-10-29,190,4.77,2025-01-03,Available
+BATCH-10406,36845670474,Boulangerie Loc. Pains au Chocolat x10,Bakery,2023-10-28,13,2.8,2023-11-08,Available
+BATCH-10407,38754140851,Evian Soda 1.5L,Beverages,2023-10-18,102,3.63,2024-01-27,Available
+BATCH-10408,35665006523,Galbani Lait Demi-Ecrémé 1L,Dairy,2023-11-08,89,2.08,2023-11-29,Available
+BATCH-10409,39152663033,L'Oréal Gel Douche Lot x2,Hygiene,2023-11-13,103,4.59,2025-01-02,Available
+BATCH-10410,37479065536,Maille Pâtes 500g,Grocery (Dry),2023-10-10,63,4.11,2024-04-18,Available
+BATCH-10411,31842183810,Signal Déodorant 250ml,Hygiene,2023-10-12,106,4.54,2025-03-26,Available
+BATCH-10412,38234795411,Bonduelle Riz Basmati 500g,Grocery (Dry),2023-10-18,112,0.8,2025-05-18,Available
+BATCH-10413,34285879451,Carrefour Bio Crème Fraîche 250g,Dairy,2023-11-10,195,3.45,2023-12-03,Available
+BATCH-10414,31619268782,Bonduelle Sauce Tomate 500g,Grocery (Dry),2023-11-05,54,1.27,2025-01-21,Available
+BATCH-10415,33289049973,Cristaline Thé Glacé Canette 33cl,Beverages,2023-10-19,123,2.8,2024-06-06,Available
+BATCH-10416,38030342780,Barilla Mayonnaise Bocal,Grocery (Dry),2023-10-14,189,0.93,2025-06-06,Available
+BATCH-10417,38449472177,Cristaline Soda Pack 6x33cl,Beverages,2023-11-10,166,2.73,2024-09-06,Available
+BATCH-10418,38949226896,Heineken Bière Blonde 1L,Beverages,2023-10-03,50,5.66,2024-02-24,Available
+BATCH-10419,36041760888,Le Petit Marseillais Gel Douche Bio,Hygiene,2023-11-08,107,5.02,2024-11-27,Available
+BATCH-10420,31619268782,Bonduelle Sauce Tomate 500g,Grocery (Dry),2023-11-08,96,1.27,2025-01-24,Available
+BATCH-10421,37265210865,Priméale Tomates Sachet,Fresh Produce,2023-10-25,40,1.58,2023-11-04,Available
+BATCH-10422,34528139524,Danone Crème Fraîche 1L,Dairy,2023-10-19,54,2.07,2023-11-25,Available
+BATCH-10423,31473493543,Nivea Gel Douche Bio,Hygiene,2023-10-04,88,2.11,2025-05-06,Available
+BATCH-10424,35263308276,La Boulangère Croissants 500g,Bakery,2023-10-29,75,1.87,2023-11-19,Available
+BATCH-10425,38345722340,Panzani Haricots Verts Bocal,Grocery (Dry),2023-10-26,117,3.62,2025-01-12,Available
+BATCH-10426,33510102708,Priméale Courgettes 1kg,Fresh Produce,2023-11-06,26,1.27,2023-11-13,Available
+BATCH-10427,31217677892,Nutella Moutarde 1kg,Grocery (Dry),2023-10-10,188,2.33,2024-05-18,Available
+BATCH-10428,34792784069,Elle & Vire Crème Fraîche x8,Dairy,2023-10-28,115,2.07,2023-11-19,Available
+BATCH-10429,34528139524,Danone Crème Fraîche 1L,Dairy,2023-10-27,109,2.07,2023-12-03,Available
+BATCH-10430,37181334783,La Boulangère Pain de Mie x10,Bakery,2023-11-08,31,2.07,2023-11-22,Available
+BATCH-10431,38576957385,Tropicana Soda 1L,Beverages,2023-10-22,133,2.58,2024-06-15,Available
+BATCH-10432,39422644435,Volvic Bière Blonde 1L,Beverages,2023-10-10,156,0.99,2024-07-31,Available
+BATCH-10433,35580252924,Elle & Vire Yaourt Nature 250g,Dairy,2023-11-07,187,1.2,2023-11-27,Available
+BATCH-10434,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-10-13,191,1.24,2024-05-31,Available
+BATCH-10435,36217282336,Bonduelle Riz Basmati 1kg,Grocery (Dry),2023-10-11,80,4.07,2024-06-06,Available
+BATCH-10436,34309939935,Pasquier Baguette 500g,Bakery,2023-10-12,12,0.96,2023-10-19,Available
+BATCH-10437,35397587817,Yoplait Lait Demi-Ecrémé 250g,Dairy,2023-11-04,71,2.25,2023-12-01,Available
+BATCH-10438,38185646678,Signal Déodorant 400ml,Hygiene,2023-10-03,140,2.51,2025-02-25,Available
+BATCH-10439,31558528202,Origine Espagne Carottes Vrac,Fresh Produce,2023-10-28,25,1.4,2023-11-07,Available
+BATCH-10440,38684567301,Bonduelle Moutarde Tube,Grocery (Dry),2023-11-12,76,1.7,2024-07-20,Available
+BATCH-10441,34645697008,Tropicana Soda Canette 33cl,Beverages,2023-10-15,118,4.7,2024-02-20,Available
+BATCH-10442,31937159234,Le Petit Marseillais Savon Liquide Lot x2,Hygiene,2023-10-26,144,5.57,2025-03-26,Available
+BATCH-10443,35435901815,Boulangerie Loc. Pains au Chocolat x6,Bakery,2023-11-05,175,1.92,2023-11-26,Available
+BATCH-10444,32832204802,Maille Pâtes Bocal,Grocery (Dry),2023-10-07,93,0.92,2024-10-28,Available
+BATCH-10445,35863119442,Le Petit Marseillais Shampoing 400ml,Hygiene,2023-10-29,193,6.19,2025-09-09,Available
+BATCH-10446,34854879401,Danone Fromage Blanc x4,Dairy,2023-11-09,133,2.44,2023-12-19,Available
+BATCH-10447,36080084843,Danone Beurre Doux x8,Dairy,2023-11-01,185,2.81,2023-12-10,Available
+BATCH-10448,34827331558,Maille Pâtes 1kg,Grocery (Dry),2023-10-18,86,1.88,2025-01-24,Available
+BATCH-10449,38555610190,Pasquier Brioche Tranchée Complet,Bakery,2023-10-01,15,1.89,2023-10-11,Available
+BATCH-10450,31634309247,Yoplait Lait Demi-Ecrémé 1L,Dairy,2023-10-13,187,1.74,2023-11-13,Available
+BATCH-10451,39788640918,Carrefour Bio Fromage Blanc 250g,Dairy,2023-10-23,114,3.43,2023-11-30,Available
+BATCH-10452,36696006168,Origine France Pommes 500g,Fresh Produce,2023-10-28,18,3.86,2023-11-07,Available
+BATCH-10453,39189120967,Dove Dentifrice Lot x2,Hygiene,2023-11-15,142,2.34,2025-03-19,Available
+BATCH-10454,32463769334,Heineken Thé Glacé 1L,Beverages,2023-10-26,97,3.05,2024-07-12,Available
+BATCH-10455,38196818200,Coca Cola Bière Blonde 1.5L,Beverages,2023-10-19,79,0.87,2024-03-06,Available
+BATCH-10456,31925841112,Colgate Dentifrice 400ml,Hygiene,2023-10-07,82,2.16,2024-10-31,Available
+BATCH-10457,39213394769,Maille Sauce Tomate 1kg,Grocery (Dry),2023-10-27,147,3.89,2024-11-04,Available
+BATCH-10458,35691959659,Le Petit Marseillais Savon Liquide Lot x2,Hygiene,2023-11-05,140,2.52,2025-01-07,Available
+BATCH-10459,32047581605,Barilla Moutarde 1kg,Grocery (Dry),2023-10-09,196,4.0,2025-06-21,Available
+BATCH-10460,37562273744,Danone Beurre Doux 500g,Dairy,2023-10-12,53,1.64,2023-11-04,Available
+BATCH-10461,34382145741,Cristaline Jus d'Orange 1L,Beverages,2023-11-06,61,3.11,2024-03-18,Available
+BATCH-10462,33384524955,Origine Espagne Bananes Vrac,Fresh Produce,2023-11-06,20,3.32,2023-11-12,Available
+BATCH-10463,39213394769,Maille Sauce Tomate 1kg,Grocery (Dry),2023-10-05,129,3.89,2024-10-13,Available
+BATCH-10464,38196818200,Coca Cola Bière Blonde 1.5L,Beverages,2023-10-17,165,0.87,2024-03-04,Available
+BATCH-10465,35756705304,Boulangerie Loc. Croissants 500g,Bakery,2023-11-01,27,0.92,2023-11-17,Available
+BATCH-10466,31701252797,Le Petit Marseillais Gel Douche 250ml,Hygiene,2023-10-15,98,7.31,2025-02-16,Available
+BATCH-10467,36948503442,Danone Beurre Doux 1L,Dairy,2023-11-13,148,2.85,2023-12-05,Available
+BATCH-10468,38385804858,Colgate Savon Liquide Lot x2,Hygiene,2023-11-03,120,7.16,2024-12-15,Available
+BATCH-10469,35804715098,Le Petit Marseillais Déodorant Lot x2,Hygiene,2023-11-10,147,5.63,2025-07-05,Available
+BATCH-10470,34792784069,Elle & Vire Crème Fraîche x8,Dairy,2023-11-15,72,2.07,2023-12-07,Available
+BATCH-10471,31729261985,Boulangerie Loc. Brioche Tranchée x10,Bakery,2023-10-24,36,1.51,2023-11-08,Available
+BATCH-10472,34989033428,Yoplait Crème Fraîche 500g,Dairy,2023-10-26,75,1.44,2023-11-16,Available
+BATCH-10473,31932002492,Origine Espagne Carottes Sachet,Fresh Produce,2023-11-11,35,1.41,2023-11-19,Available
+BATCH-10474,37561320348,Carrefour Bio Yaourt Nature x4,Dairy,2023-11-12,133,1.46,2023-12-02,Available
+BATCH-10475,37265210865,Priméale Tomates Sachet,Fresh Produce,2023-10-11,37,1.58,2023-10-21,Available
+BATCH-10476,39372467979,Origine Espagne Carottes Vrac,Fresh Produce,2023-10-11,15,2.13,2023-10-20,Available
+BATCH-10477,31703869319,Priméale Pommes Vrac,Fresh Produce,2023-10-13,13,2.28,2023-10-19,Available
+BATCH-10478,33291412661,Origine France Salade 1kg,Fresh Produce,2023-11-05,14,3.3,2023-11-13,Available
+BATCH-10479,39832404367,Colgate Savon Liquide Bio,Hygiene,2023-10-29,169,3.0,2025-05-23,Available
+BATCH-10480,36760109368,La Boulangère Pain de Mie Nature,Bakery,2023-10-10,135,2.38,2023-10-31,Available
+BATCH-10481,32908562232,Carrefour Bio Fromage Blanc x4,Dairy,2023-10-26,138,2.2,2023-11-28,Available
+BATCH-10482,36873861548,Pasquier Pain de Mie x6,Bakery,2023-10-11,132,2.06,2023-10-31,Available
+BATCH-10483,32271134947,Origine France Bananes 1kg,Fresh Produce,2023-11-10,36,3.8,2023-11-16,Available
+BATCH-10484,32932670539,L'Oréal Déodorant Bio,Hygiene,2023-10-21,183,3.37,2024-11-09,Available
+BATCH-10485,34072795089,L'Oréal Dentifrice 250ml,Hygiene,2023-11-02,169,3.56,2024-11-16,Available
+BATCH-10486,35170594822,Oasis Bière Blonde Canette 33cl,Beverages,2023-10-03,194,1.74,2024-03-05,Available
+BATCH-10487,31765944017,Panzani Sauce Tomate Tube,Grocery (Dry),2023-11-09,90,3.32,2025-08-06,Available
+BATCH-10488,35558140796,Evian Jus d'Orange Canette 33cl,Beverages,2023-11-08,124,1.76,2024-07-14,Available
+BATCH-10489,33679759634,Heineken Soda 1L,Beverages,2023-11-05,158,2.63,2024-08-07,Available
+BATCH-10490,34289718375,Oasis Thé Glacé 1.5L,Beverages,2023-10-21,180,4.23,2024-10-02,Available
+BATCH-10491,33845959382,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-10-31,56,6.27,2025-01-04,Available
+BATCH-10492,36080084843,Danone Beurre Doux x8,Dairy,2023-11-04,148,2.81,2023-12-13,Available
+BATCH-10493,31766009855,Nivea Dentifrice Bio,Hygiene,2023-11-06,65,4.56,2025-09-25,Available
+BATCH-10494,31303192976,Maille Riz Basmati Bocal,Grocery (Dry),2023-10-15,76,0.92,2025-08-18,Available
+BATCH-10495,31282196690,La Boulangère Brioche Tranchée 500g,Bakery,2023-11-08,38,2.97,2023-11-25,Available
+BATCH-10496,35805428235,Elle & Vire Lait Demi-Ecrémé 500g,Dairy,2023-10-31,75,1.78,2023-12-06,Available
+BATCH-10497,34209102886,Boulangerie Loc. Brioche Tranchée Nature,Bakery,2023-11-11,18,1.86,2023-11-18,Available
+BATCH-10498,39961500577,L'Oréal Savon Liquide 250ml,Hygiene,2023-11-03,157,2.74,2024-11-21,Available
+BATCH-10499,35146049403,Dove Déodorant Bio,Hygiene,2023-10-04,141,5.43,2025-07-11,Available
+BATCH-10500,36427606400,Nutella Moutarde Bocal,Grocery (Dry),2023-10-29,70,3.98,2025-07-16,Available
+BATCH-10501,39217239484,Carrefour Bio Courgettes Sachet,Fresh Produce,2023-11-15,19,2.66,2023-11-23,Available
+BATCH-10502,39548833643,Boulangerie Loc. Brioche Tranchée x6,Bakery,2023-11-08,10,1.86,2023-11-25,Available
+BATCH-10503,34757734320,Boulangerie Loc. Pains au Chocolat Complet,Bakery,2023-11-13,10,1.32,2023-11-24,Available
+BATCH-10504,32097341849,Pasquier Baguette x10,Bakery,2023-10-20,33,1.97,2023-11-06,Available
+BATCH-10505,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-11-03,54,1.68,2024-09-06,Available
+BATCH-10506,33784342286,Barilla Haricots Verts Bocal,Grocery (Dry),2023-10-01,64,1.17,2025-01-22,Available
+BATCH-10507,36092104053,Dove Déodorant Bio,Hygiene,2023-10-10,106,2.36,2025-04-08,Available
+BATCH-10508,31327877995,Signal Shampoing Bio,Hygiene,2023-10-23,83,2.9,2025-03-20,Available
+BATCH-10509,39961500577,L'Oréal Savon Liquide 250ml,Hygiene,2023-11-02,150,2.74,2024-11-20,Available
+BATCH-10510,35170594822,Oasis Bière Blonde Canette 33cl,Beverages,2023-10-25,189,1.74,2024-03-27,Available
+BATCH-10511,31995287718,Pasquier Croissants x10,Bakery,2023-11-11,27,1.64,2023-11-28,Available
+BATCH-10512,39004339064,Priméale Tomates Sachet,Fresh Produce,2023-11-14,18,1.49,2023-11-22,Available
+BATCH-10513,36201124893,Pasquier Croissants 500g,Bakery,2023-10-26,29,1.05,2023-11-10,Available
+BATCH-10514,36202727839,Colgate Savon Liquide Lot x2,Hygiene,2023-11-14,80,3.48,2025-07-14,Available
+BATCH-10515,35665006523,Galbani Lait Demi-Ecrémé 1L,Dairy,2023-11-07,194,2.08,2023-11-28,Available
+BATCH-10516,33756903682,Tropicana Eau Minérale Pack 6x33cl,Beverages,2023-10-13,65,2.87,2024-02-13,Available
+BATCH-10517,38145615113,Harrys Pain de Mie Complet,Bakery,2023-10-21,33,2.26,2023-11-08,Available
+BATCH-10518,35516572041,La Boulangère Baguette Nature,Bakery,2023-10-31,32,1.05,2023-11-16,Available
+BATCH-10519,35665006523,Galbani Lait Demi-Ecrémé 1L,Dairy,2023-10-22,188,2.08,2023-11-12,Available
+BATCH-10520,38555610190,Pasquier Brioche Tranchée Complet,Bakery,2023-11-12,31,1.89,2023-11-22,Available
+BATCH-10521,33291412661,Origine France Salade 1kg,Fresh Produce,2023-10-13,33,3.3,2023-10-21,Available
+BATCH-10522,31416509491,Origine Espagne Bananes 1kg,Fresh Produce,2023-11-07,21,3.06,2023-11-12,Available
+BATCH-10523,33524180650,Danone Yaourt Nature 500g,Dairy,2023-10-29,169,3.16,2023-12-02,Available
+BATCH-10524,33845959382,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-11-08,118,6.27,2025-01-12,Available
+BATCH-10525,32054130921,La Boulangère Baguette Complet,Bakery,2023-10-30,23,2.37,2023-11-18,Available
+BATCH-10526,36619969386,Galbani Yaourt Nature 1L,Dairy,2023-11-12,98,1.69,2023-12-14,Available
+BATCH-10527,34792784069,Elle & Vire Crème Fraîche x8,Dairy,2023-11-07,64,2.07,2023-11-29,Available
+BATCH-10528,36012005258,Origine France Tomates 500g,Fresh Produce,2023-10-20,39,1.29,2023-10-25,Available
+BATCH-10529,36056100490,Priméale Tomates Sachet,Fresh Produce,2023-10-31,23,1.04,2023-11-06,Available
+BATCH-10530,36292273786,Nivea Gel Douche 250ml,Hygiene,2023-10-17,192,3.27,2025-07-16,Available
+BATCH-10531,36619969386,Galbani Yaourt Nature 1L,Dairy,2023-11-03,51,1.69,2023-12-05,Available
+BATCH-10532,31766009855,Nivea Dentifrice Bio,Hygiene,2023-10-30,55,4.56,2025-09-18,Available
+BATCH-10533,31937159234,Le Petit Marseillais Savon Liquide Lot x2,Hygiene,2023-10-14,72,5.57,2025-03-14,Available
+BATCH-10534,39832404367,Colgate Savon Liquide Bio,Hygiene,2023-10-26,90,3.0,2025-05-20,Available
+BATCH-10535,34193870705,Origine France Bananes Vrac,Fresh Produce,2023-11-10,40,1.27,2023-11-19,Available
+BATCH-10536,31465545262,Président Mozzarella 500g,Dairy,2023-11-06,131,1.02,2023-12-02,Available
+BATCH-10537,32047581605,Barilla Moutarde 1kg,Grocery (Dry),2023-10-20,83,4.0,2025-07-02,Available
+BATCH-10538,31908758588,Nutella Moutarde 500g,Grocery (Dry),2023-10-23,176,2.9,2024-10-18,Available
+BATCH-10539,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-11-06,191,2.9,2023-11-29,Available
+BATCH-10540,39027169495,Panzani Mayonnaise 1kg,Grocery (Dry),2023-10-03,69,2.14,2025-06-24,Available
+BATCH-10541,38385804858,Colgate Savon Liquide Lot x2,Hygiene,2023-10-29,121,7.16,2024-12-10,Available
+BATCH-10542,32451723340,Nutella Moutarde 500g,Grocery (Dry),2023-10-03,150,2.68,2024-04-15,Available
+BATCH-10543,33788850299,Colgate Savon Liquide 250ml,Hygiene,2023-11-09,167,3.83,2024-12-04,Available
+BATCH-10544,31999968098,Boulangerie Loc. Baguette Complet,Bakery,2023-11-06,24,1.95,2023-11-24,Available
+BATCH-10545,39008930794,Nivea Shampoing 400ml,Hygiene,2023-10-01,134,6.76,2025-07-29,Available
+BATCH-10546,36434255808,Volvic Bière Blonde Pack 6x33cl,Beverages,2023-10-29,140,5.89,2024-03-17,Available
+BATCH-10547,31976884178,Harrys Pain de Mie Nature,Bakery,2023-11-04,18,0.81,2023-11-12,Available
+BATCH-10548,31430613137,L'Oréal Savon Liquide 250ml,Hygiene,2023-10-30,58,8.16,2024-11-17,Available
+BATCH-10549,35137048699,La Boulangère Croissants Nature,Bakery,2023-10-26,38,2.17,2023-11-13,Available
+BATCH-10550,38756683532,Pasquier Pain de Mie 500g,Bakery,2023-11-05,10,1.94,2023-11-15,Available
+BATCH-10551,37177866205,Barilla Riz Basmati 500g,Grocery (Dry),2023-11-08,130,2.14,2024-07-16,Available
+BATCH-10552,33711115696,Evian Bière Blonde 1L,Beverages,2023-11-04,61,4.32,2024-09-16,Available
+BATCH-10553,38145615113,Harrys Pain de Mie Complet,Bakery,2023-10-28,13,2.26,2023-11-15,Available
+BATCH-10554,39401067751,Origine Espagne Tomates 500g,Fresh Produce,2023-10-05,36,2.54,2023-10-15,Available
+BATCH-10555,32741108066,Priméale Courgettes 500g,Fresh Produce,2023-11-01,33,1.16,2023-11-07,Available
+BATCH-10556,38166080536,Président Crème Fraîche x4,Dairy,2023-10-29,77,1.26,2023-11-26,Available
+BATCH-10557,35863119442,Le Petit Marseillais Shampoing 400ml,Hygiene,2023-11-08,155,6.19,2025-09-19,Available
+BATCH-10558,34341658676,Harrys Croissants x6,Bakery,2023-11-07,19,1.35,2023-11-16,Available
+BATCH-10559,37263590212,L'Oréal Dentifrice Lot x2,Hygiene,2023-11-14,142,6.33,2025-01-26,Available
+BATCH-10560,36392409038,Harrys Brioche Tranchée 500g,Bakery,2023-11-07,11,2.29,2023-11-21,Available
+BATCH-10561,36434255808,Volvic Bière Blonde Pack 6x33cl,Beverages,2023-10-19,97,5.89,2024-03-07,Available
+BATCH-10562,34435610143,Harrys Baguette x10,Bakery,2023-10-10,14,1.97,2023-10-23,Available
+BATCH-10563,31526728370,La Boulangère Croissants Nature,Bakery,2023-10-28,11,0.97,2023-11-06,Available
+BATCH-10564,36004118941,Carrefour Bio Tomates Vrac,Fresh Produce,2023-10-30,13,3.3,2023-11-03,Available
+BATCH-10565,34412525113,Dove Déodorant 250ml,Hygiene,2023-10-10,126,2.73,2025-03-10,Available
+BATCH-10566,35870954673,La Boulangère Brioche Tranchée x10,Bakery,2023-10-03,12,1.5,2023-10-14,Available
+BATCH-10567,35756705304,Boulangerie Loc. Croissants 500g,Bakery,2023-10-02,15,0.92,2023-10-18,Available
+BATCH-10568,32037866392,Dove Dentifrice Lot x2,Hygiene,2023-10-25,105,7.18,2025-08-21,Available
+BATCH-10569,36004118941,Carrefour Bio Tomates Vrac,Fresh Produce,2023-11-06,11,3.3,2023-11-10,Available
+BATCH-10570,36866689673,Signal Déodorant 400ml,Hygiene,2023-11-05,184,6.22,2025-07-14,Available
+BATCH-10571,34989033428,Yoplait Crème Fraîche 500g,Dairy,2023-10-19,163,1.44,2023-11-09,Available
+BATCH-10572,39853324327,La Boulangère Baguette x6,Bakery,2023-10-12,28,0.85,2023-10-19,Available
+BATCH-10573,33241461487,Boulangerie Loc. Pain de Mie x10,Bakery,2023-10-02,15,2.59,2023-10-10,Available
+BATCH-10574,35355576656,Pasquier Baguette Nature,Bakery,2023-11-15,28,1.45,2023-12-03,Available
+BATCH-10575,36012005258,Origine France Tomates 500g,Fresh Produce,2023-10-14,27,1.29,2023-10-19,Available
+BATCH-10576,31766009855,Nivea Dentifrice Bio,Hygiene,2023-11-14,95,4.56,2025-10-03,Available
+BATCH-10577,39158117811,Colgate Savon Liquide 250ml,Hygiene,2023-10-03,155,4.69,2024-11-23,Available
+BATCH-10578,35056842032,Lustucru Sauce Tomate 1kg,Grocery (Dry),2023-10-23,161,4.71,2024-06-23,Available
+BATCH-10579,32252256365,Président Fromage Blanc x4,Dairy,2023-11-12,133,2.96,2023-12-05,Available
+BATCH-10580,36230952734,Tropicana Soda Pack 6x33cl,Beverages,2023-11-15,112,2.43,2024-09-24,Available
+BATCH-10581,31605578122,Galbani Fromage Blanc 1L,Dairy,2023-10-22,153,1.67,2023-11-14,Available
+BATCH-10582,33289049973,Cristaline Thé Glacé Canette 33cl,Beverages,2023-10-01,142,2.8,2024-05-19,Available
+BATCH-10583,34435610143,Harrys Baguette x10,Bakery,2023-10-30,10,1.97,2023-11-12,Available
+BATCH-10584,34547026608,Priméale Bananes 500g,Fresh Produce,2023-11-01,35,2.63,2023-11-05,Available
+BATCH-10585,33483980197,Carrefour Bio Beurre Doux 1L,Dairy,2023-11-13,149,2.46,2023-12-09,Available
+BATCH-10586,31282196690,La Boulangère Brioche Tranchée 500g,Bakery,2023-10-08,15,2.97,2023-10-25,Available
+BATCH-10587,34118430002,Volvic Thé Glacé 1L,Beverages,2023-10-14,174,4.87,2024-06-24,Available
+BATCH-10588,34815938708,Barilla Riz Basmati 500g,Grocery (Dry),2023-11-05,195,2.51,2024-06-01,Available
+BATCH-10589,34133700441,Lustucru Moutarde 1kg,Grocery (Dry),2023-10-31,74,4.57,2024-09-30,Available
+BATCH-10590,37180617493,Origine France Bananes 500g,Fresh Produce,2023-11-01,35,3.23,2023-11-05,Available
+BATCH-10591,36012005258,Origine France Tomates 500g,Fresh Produce,2023-10-22,31,1.29,2023-10-27,Available
+BATCH-10592,34309939935,Pasquier Baguette 500g,Bakery,2023-10-09,28,0.96,2023-10-16,Available
+BATCH-10593,31605578122,Galbani Fromage Blanc 1L,Dairy,2023-11-14,200,1.67,2023-12-07,Available
+BATCH-10594,35657440275,Carrefour Bio Tomates 1kg,Fresh Produce,2023-10-13,31,3.65,2023-10-23,Available
+BATCH-10595,34815938708,Barilla Riz Basmati 500g,Grocery (Dry),2023-10-27,78,2.51,2024-05-23,Available
+BATCH-10596,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-10-30,74,1.68,2024-09-02,Available
+BATCH-10597,33186530638,Galbani Mozzarella x8,Dairy,2023-11-13,166,2.02,2023-12-20,Available
+BATCH-10598,35870954673,La Boulangère Brioche Tranchée x10,Bakery,2023-10-16,19,1.5,2023-10-27,Available
+BATCH-10599,37714651650,Origine France Tomates Vrac,Fresh Produce,2023-10-14,38,2.39,2023-10-21,Available
+BATCH-10600,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-11-04,116,1.68,2024-09-07,Available
+BATCH-10601,37424317166,Panzani Riz Basmati 500g,Grocery (Dry),2023-10-14,75,3.39,2024-12-25,Available
+BATCH-10602,35955832305,Colgate Gel Douche Bio,Hygiene,2023-11-07,156,3.73,2025-09-29,Available
+BATCH-10603,38078683065,Origine Espagne Tomates Sachet,Fresh Produce,2023-10-22,32,3.05,2023-10-30,Available
+BATCH-10604,32651444895,Nutella Pâtes Tube,Grocery (Dry),2023-10-10,163,3.6,2025-07-29,Available
+BATCH-10605,37021592770,Volvic Eau Minérale Pack 6x33cl,Beverages,2023-10-31,171,2.25,2024-05-20,Available
+BATCH-10606,39621886607,Volvic Soda Canette 33cl,Beverages,2023-10-18,92,5.94,2024-02-10,Available
+BATCH-10607,37080868686,Barilla Pâtes 1kg,Grocery (Dry),2023-10-27,194,0.97,2024-06-07,Available
+BATCH-10608,31217677892,Nutella Moutarde 1kg,Grocery (Dry),2023-10-07,168,2.33,2024-05-15,Available
+BATCH-10609,39224757623,Cristaline Jus d'Orange 1L,Beverages,2023-11-05,81,4.18,2024-04-07,Available
+BATCH-10610,31413616687,Carrefour Bio Lait Demi-Ecrémé 1L,Dairy,2023-11-05,174,2.68,2023-11-25,Available
+BATCH-10611,38145615113,Harrys Pain de Mie Complet,Bakery,2023-10-22,18,2.26,2023-11-09,Available
+BATCH-10612,31769581323,Origine France Tomates 1kg,Fresh Produce,2023-10-06,14,1.7,2023-10-12,Available
+BATCH-10613,36202727839,Colgate Savon Liquide Lot x2,Hygiene,2023-10-05,63,3.48,2025-06-04,Available
+BATCH-10614,38637500805,Priméale Salade 1kg,Fresh Produce,2023-11-09,11,0.76,2023-11-19,Available
+BATCH-10615,36509731862,Amora Sauce Tomate 1kg,Grocery (Dry),2023-10-29,155,1.68,2024-09-01,Available
+BATCH-10616,33342585791,Origine Espagne Salade 1kg,Fresh Produce,2023-10-31,15,2.83,2023-11-04,Available
+BATCH-10617,39072671758,Cristaline Eau Minérale Canette 33cl,Beverages,2023-11-13,73,3.07,2024-05-16,Available
+BATCH-10618,39087383512,Heineken Jus d'Orange Pack 6x33cl,Beverages,2023-11-03,135,4.53,2024-05-11,Available
+BATCH-10619,35657440275,Carrefour Bio Tomates 1kg,Fresh Produce,2023-11-01,39,3.65,2023-11-11,Available
+BATCH-10620,31958066082,Cristaline Thé Glacé 1L,Beverages,2023-10-15,103,1.47,2024-01-25,Available
+BATCH-10621,33544140865,Dove Dentifrice 400ml,Hygiene,2023-11-10,103,4.42,2025-06-15,Available
+BATCH-10622,35056842032,Lustucru Sauce Tomate 1kg,Grocery (Dry),2023-10-01,128,4.71,2024-06-01,Available
+BATCH-10623,31842183810,Signal Déodorant 250ml,Hygiene,2023-10-14,104,4.54,2025-03-28,Available
+BATCH-10624,38754140851,Evian Soda 1.5L,Beverages,2023-10-29,165,3.63,2024-02-07,Available
+BATCH-10625,37128743207,Origine France Pommes 1kg,Fresh Produce,2023-10-15,40,2.69,2023-10-21,Available
+BATCH-10626,33290515782,Signal Dentifrice Bio,Hygiene,2023-10-21,168,6.1,2025-08-06,Available
+BATCH-10627,37450140191,Galbani Mozzarella x4,Dairy,2023-11-07,134,1.23,2023-12-01,Available
+BATCH-10628,37860955759,Panzani Pâtes Bocal,Grocery (Dry),2023-10-28,104,3.17,2025-09-15,Available
+BATCH-10629,35187588879,Lustucru Pâtes 500g,Grocery (Dry),2023-10-10,86,2.08,2025-06-27,Available
+BATCH-10630,36845670474,Boulangerie Loc. Pains au Chocolat x10,Bakery,2023-11-10,23,2.8,2023-11-21,Available
+BATCH-10631,34660844624,Pasquier Pains au Chocolat Complet,Bakery,2023-10-14,106,1.23,2023-11-04,Available
+BATCH-10632,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-11-04,156,1.24,2024-06-22,Available
+BATCH-10633,34118430002,Volvic Thé Glacé 1L,Beverages,2023-11-02,105,4.87,2024-07-13,Available
+BATCH-10634,37479065536,Maille Pâtes 500g,Grocery (Dry),2023-10-04,54,4.11,2024-04-12,Available
+BATCH-10635,39548833643,Boulangerie Loc. Brioche Tranchée x6,Bakery,2023-10-05,19,1.86,2023-10-22,Available
+BATCH-10636,31430613137,L'Oréal Savon Liquide 250ml,Hygiene,2023-11-06,55,8.16,2024-11-24,Available
+BATCH-10637,35631372635,Président Crème Fraîche x8,Dairy,2023-10-26,81,1.31,2023-11-25,Available
+BATCH-10638,35544562756,Coca Cola Soda Pack 6x33cl,Beverages,2023-11-07,196,2.06,2024-05-05,Available
+BATCH-10639,36811794559,Origine Espagne Pommes 500g,Fresh Produce,2023-11-05,39,1.05,2023-11-11,Available
+BATCH-10640,36822968879,Le Petit Marseillais Gel Douche 400ml,Hygiene,2023-10-06,122,3.8,2024-11-08,Available
+BATCH-10641,34827331558,Maille Pâtes 1kg,Grocery (Dry),2023-10-12,144,1.88,2025-01-18,Available
+BATCH-10642,32012637603,Boulangerie Loc. Croissants Complet,Bakery,2023-11-07,31,1.75,2023-11-25,Available
+BATCH-10643,36217282336,Bonduelle Riz Basmati 1kg,Grocery (Dry),2023-10-13,161,4.07,2024-06-08,Available
+BATCH-10644,36760109368,La Boulangère Pain de Mie Nature,Bakery,2023-10-14,98,2.38,2023-11-04,Available
+BATCH-10645,39189120967,Dove Dentifrice Lot x2,Hygiene,2023-10-19,75,2.34,2025-02-20,Available
+BATCH-10646,35740348248,Harrys Pain de Mie x10,Bakery,2023-10-28,34,1.93,2023-11-10,Available
+BATCH-10647,35981114390,Amora Mayonnaise 500g,Grocery (Dry),2023-10-15,185,1.9,2024-06-08,Available
+BATCH-10648,32271134947,Origine France Bananes 1kg,Fresh Produce,2023-10-31,14,3.8,2023-11-06,Available
+BATCH-10649,33926817704,La Boulangère Pain de Mie Nature,Bakery,2023-11-06,13,2.48,2023-11-23,Available
+BATCH-10650,35805428235,Elle & Vire Lait Demi-Ecrémé 500g,Dairy,2023-10-16,110,1.78,2023-11-21,Available
+BATCH-10651,38847339223,Barilla Haricots Verts 1kg,Grocery (Dry),2023-11-03,170,3.91,2025-06-26,Available
+BATCH-10652,33279408925,Elle & Vire Beurre Doux 500g,Dairy,2023-11-13,170,2.79,2023-12-18,Available
+BATCH-10653,32474719000,Harrys Brioche Tranchée 500g,Bakery,2023-11-02,40,2.36,2023-11-09,Available
+BATCH-10654,34403680634,Yoplait Lait Demi-Ecrémé 250g,Dairy,2023-10-19,182,1.74,2023-11-16,Available
+BATCH-10655,31766009855,Nivea Dentifrice Bio,Hygiene,2023-11-05,120,4.56,2025-09-24,Available
+BATCH-10656,31327877995,Signal Shampoing Bio,Hygiene,2023-10-17,67,2.9,2025-03-14,Available
+BATCH-10657,37844707917,Bonduelle Sauce Tomate Bocal,Grocery (Dry),2023-11-14,98,2.19,2024-09-07,Available
+BATCH-10658,36120838418,Carrefour Bio Lait Demi-Ecrémé x8,Dairy,2023-10-13,87,2.0,2023-11-20,Available
+BATCH-10659,39100274135,L'Oréal Shampoing 400ml,Hygiene,2023-11-14,52,2.35,2025-04-03,Available
+BATCH-10660,37241624287,Origine Espagne Salade Sachet,Fresh Produce,2023-11-12,24,2.01,2023-11-22,Available
+BATCH-10661,31401748259,Colgate Savon Liquide Bio,Hygiene,2023-10-23,199,6.1,2025-09-07,Available
+BATCH-10662,32097341849,Pasquier Baguette x10,Bakery,2023-10-09,39,1.97,2023-10-26,Available
+BATCH-10663,35516572041,La Boulangère Baguette Nature,Bakery,2023-11-02,11,1.05,2023-11-18,Available
+BATCH-10664,33701112793,Cristaline Soda Canette 33cl,Beverages,2023-10-27,172,2.93,2024-02-25,Available
+BATCH-10665,32941877250,Elle & Vire Fromage Blanc x4,Dairy,2023-10-08,88,2.89,2023-11-01,Available
+BATCH-10666,33442058362,L'Oréal Gel Douche Bio,Hygiene,2023-11-10,170,3.79,2025-05-11,Available
+BATCH-10667,39626228488,Dove Déodorant Lot x2,Hygiene,2023-11-12,81,3.25,2025-04-01,Available
+BATCH-10668,32773610380,Priméale Carottes Sachet,Fresh Produce,2023-10-07,26,3.72,2023-10-11,Available
+BATCH-10669,37508260239,Lustucru Mayonnaise 1kg,Grocery (Dry),2023-11-11,143,4.8,2025-06-24,Available
+BATCH-10670,32180152312,Carrefour Bio Pommes 1kg,Fresh Produce,2023-11-11,21,1.58,2023-11-16,Available
+BATCH-10671,31367891353,Origine Espagne Tomates 500g,Fresh Produce,2023-10-17,29,2.38,2023-10-23,Available
+BATCH-10672,33926817704,La Boulangère Pain de Mie Nature,Bakery,2023-10-18,23,2.48,2023-11-04,Available
+BATCH-10673,32424754730,L'Oréal Savon Liquide Lot x2,Hygiene,2023-11-02,134,5.83,2025-08-23,Available
+BATCH-10674,38684567301,Bonduelle Moutarde Tube,Grocery (Dry),2023-10-01,77,1.7,2024-06-08,Available
+BATCH-10675,39788640918,Carrefour Bio Fromage Blanc 250g,Dairy,2023-10-02,154,3.43,2023-11-09,Available
+BATCH-10676,35187588879,Lustucru Pâtes 500g,Grocery (Dry),2023-10-05,100,2.08,2025-06-22,Available
+BATCH-10677,34908614869,Origine France Bananes Vrac,Fresh Produce,2023-11-11,15,2.66,2023-11-20,Available
+BATCH-10678,38949226896,Heineken Bière Blonde 1L,Beverages,2023-10-28,151,5.66,2024-03-20,Available
+BATCH-10679,34854879401,Danone Fromage Blanc x4,Dairy,2023-10-20,51,2.44,2023-11-29,Available
+BATCH-10680,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-10-27,69,2.9,2023-11-19,Available
+BATCH-10681,34371503943,Pasquier Pains au Chocolat Nature,Bakery,2023-11-13,143,1.37,2023-12-04,Available
+BATCH-10682,37879036459,Lustucru Pâtes 500g,Grocery (Dry),2023-10-04,170,1.43,2025-01-06,Available
+BATCH-10683,37468741429,Oasis Soda 1.5L,Beverages,2023-11-10,136,2.03,2024-07-11,Available
+BATCH-10684,36071655820,Nivea Shampoing Lot x2,Hygiene,2023-11-09,137,7.34,2025-04-26,Available
+BATCH-10685,31765944017,Panzani Sauce Tomate Tube,Grocery (Dry),2023-11-13,110,3.32,2025-08-10,Available
+BATCH-10686,31601204643,Pasquier Croissants Complet,Bakery,2023-10-30,20,1.29,2023-11-18,Available
+BATCH-10687,38181252841,Volvic Jus d'Orange Pack 6x33cl,Beverages,2023-10-20,115,4.26,2024-03-25,Available
+BATCH-10688,38898511155,L'Oréal Déodorant Bio,Hygiene,2023-11-07,121,3.62,2025-03-28,Available
+BATCH-10689,33290515782,Signal Dentifrice Bio,Hygiene,2023-11-05,194,6.1,2025-08-21,Available
+BATCH-10690,33845959382,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-10-11,183,6.27,2024-12-15,Available
+BATCH-10691,37177866205,Barilla Riz Basmati 500g,Grocery (Dry),2023-11-01,144,2.14,2024-07-09,Available
+BATCH-10692,33142309857,Elle & Vire Fromage Blanc 250g,Dairy,2023-10-14,96,1.64,2023-11-18,Available
+BATCH-10693,32773785009,Volvic Thé Glacé Canette 33cl,Beverages,2023-11-15,156,4.56,2024-06-06,Available
+BATCH-10694,38452899947,Carrefour Bio Yaourt Nature 250g,Dairy,2023-10-23,132,2.53,2023-11-28,Available
+BATCH-10695,32326554850,Coca Cola Eau Minérale 1L,Beverages,2023-11-04,76,2.38,2024-08-26,Available
+BATCH-10696,32908562232,Carrefour Bio Fromage Blanc x4,Dairy,2023-11-02,70,2.2,2023-12-05,Available
+BATCH-10697,31217677892,Nutella Moutarde 1kg,Grocery (Dry),2023-11-08,138,2.33,2024-06-16,Available
+BATCH-10698,38137390584,Oasis Jus d'Orange Canette 33cl,Beverages,2023-11-08,69,4.49,2024-02-26,Available
+BATCH-10699,36295575786,Pasquier Baguette x10,Bakery,2023-10-18,18,1.78,2023-10-30,Available
+BATCH-10700,37263590212,L'Oréal Dentifrice Lot x2,Hygiene,2023-10-21,172,6.33,2025-01-02,Available
+BATCH-10701,35391754402,Nutella Moutarde 500g,Grocery (Dry),2023-11-11,106,3.32,2025-06-29,Available
+BATCH-10702,35518507391,Carrefour Bio Mozzarella 250g,Dairy,2023-10-10,152,2.9,2023-11-02,Available
+BATCH-10703,31995287718,Pasquier Croissants x10,Bakery,2023-11-12,16,1.64,2023-11-29,Available
+BATCH-10704,39014022014,Dove Dentifrice Bio,Hygiene,2023-10-07,71,3.07,2025-03-12,Available
+BATCH-10705,31544118183,Carrefour Bio Pommes 1kg,Fresh Produce,2023-10-30,38,1.0,2023-11-03,Available
+BATCH-10706,36238458415,Barilla Mayonnaise 1kg,Grocery (Dry),2023-10-09,139,1.3,2025-01-31,Available
+BATCH-10707,31906074415,Origine France Salade 500g,Fresh Produce,2023-10-14,11,1.61,2023-10-23,Available
+BATCH-10708,33682543176,La Boulangère Pains au Chocolat Complet,Bakery,2023-10-11,11,1.51,2023-10-26,Available
+BATCH-10709,31401748259,Colgate Savon Liquide Bio,Hygiene,2023-10-27,173,6.1,2025-09-11,Available
+BATCH-10710,36080084843,Danone Beurre Doux x8,Dairy,2023-11-07,148,2.81,2023-12-16,Available
+BATCH-10711,33296730111,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-11-05,154,5.6,2025-07-12,Available
+BATCH-10712,32761795089,Origine France Tomates Vrac,Fresh Produce,2023-10-09,24,2.43,2023-10-18,Available
+BATCH-10713,34815938708,Barilla Riz Basmati 500g,Grocery (Dry),2023-11-11,194,2.51,2024-06-07,Available
+BATCH-10714,38886691421,Nivea Dentifrice Lot x2,Hygiene,2023-10-21,141,5.09,2025-06-20,Available
+BATCH-10715,37341880124,L'Oréal Dentifrice 400ml,Hygiene,2023-10-22,79,3.15,2025-09-09,Available
+BATCH-10716,38795398281,Tropicana Jus d'Orange Pack 6x33cl,Beverages,2023-10-06,122,0.89,2024-06-03,Available
+BATCH-10717,34289718375,Oasis Thé Glacé 1.5L,Beverages,2023-11-09,95,4.23,2024-10-21,Available
+BATCH-10718,35838045862,Volvic Soda 1.5L,Beverages,2023-10-31,88,5.83,2024-10-07,Available
+BATCH-10719,39189120967,Dove Dentifrice Lot x2,Hygiene,2023-10-28,93,2.34,2025-03-01,Available
+BATCH-10720,38847339223,Barilla Haricots Verts 1kg,Grocery (Dry),2023-10-11,182,3.91,2025-06-03,Available
+BATCH-10721,35708497851,Boulangerie Loc. Baguette Nature,Bakery,2023-10-24,12,1.26,2023-10-31,Available
+BATCH-10722,37570684353,Origine France Salade 500g,Fresh Produce,2023-11-11,15,3.47,2023-11-17,Available
+BATCH-10723,39072671758,Cristaline Eau Minérale Canette 33cl,Beverages,2023-11-09,104,3.07,2024-05-12,Available
+BATCH-10724,34547026608,Priméale Bananes 500g,Fresh Produce,2023-10-03,39,2.63,2023-10-07,Available
+BATCH-10725,33343500027,Boulangerie Loc. Croissants x10,Bakery,2023-11-06,29,2.17,2023-11-17,Available
+BATCH-10726,32881698243,Cristaline Eau Minérale 1L,Beverages,2023-10-20,51,4.97,2024-09-02,Available
+BATCH-10727,31963633350,Harrys Brioche Tranchée 500g,Bakery,2023-11-02,11,1.6,2023-11-18,Available
+BATCH-10728,38636527014,Lustucru Haricots Verts Tube,Grocery (Dry),2023-10-30,74,0.59,2024-12-06,Available
+BATCH-10729,36958989507,Maille Riz Basmati 1kg,Grocery (Dry),2023-10-28,116,2.97,2024-05-07,Available
+BATCH-10730,34920690674,L'Oréal Déodorant Lot x2,Hygiene,2023-11-02,52,4.16,2025-09-17,Available
+BATCH-10731,38622518434,L'Oréal Dentifrice Lot x2,Hygiene,2023-10-06,97,4.11,2025-05-25,Available
+BATCH-10732,32326554850,Coca Cola Eau Minérale 1L,Beverages,2023-11-13,187,2.38,2024-09-04,Available
+BATCH-10733,33122857919,Cristaline Bière Blonde 1.5L,Beverages,2023-11-15,96,3.95,2024-10-19,Available
+BATCH-10734,38196818200,Coca Cola Bière Blonde 1.5L,Beverages,2023-10-14,104,0.87,2024-03-01,Available
+BATCH-10735,37263590212,L'Oréal Dentifrice Lot x2,Hygiene,2023-11-06,74,6.33,2025-01-18,Available
+BATCH-10736,39825019371,Nivea Savon Liquide 400ml,Hygiene,2023-10-05,149,6.64,2025-05-17,Available
+BATCH-10737,31976884178,Harrys Pain de Mie Nature,Bakery,2023-10-26,37,0.81,2023-11-03,Available
+BATCH-10738,39401067751,Origine Espagne Tomates 500g,Fresh Produce,2023-10-18,39,2.54,2023-10-28,Available
+BATCH-10739,36349200413,Priméale Carottes 500g,Fresh Produce,2023-10-09,11,3.16,2023-10-19,Available
+BATCH-10740,34411527045,Dove Gel Douche Bio,Hygiene,2023-10-09,75,2.67,2025-01-08,Available
+BATCH-10741,39631236682,Lustucru Haricots Verts 500g,Grocery (Dry),2023-11-04,140,1.24,2024-06-22,Available
+BATCH-10742,31189859348,Pasquier Croissants x6,Bakery,2023-10-14,12,1.86,2023-10-26,Available
+BATCH-10743,34989033428,Yoplait Crème Fraîche 500g,Dairy,2023-10-17,188,1.44,2023-11-07,Available
+BATCH-10744,35100149363,Colgate Déodorant Lot x2,Hygiene,2023-11-03,97,5.17,2024-12-30,Available
+BATCH-10745,31729261985,Boulangerie Loc. Brioche Tranchée x10,Bakery,2023-10-18,25,1.51,2023-11-02,Available
+BATCH-10746,37844707917,Bonduelle Sauce Tomate Bocal,Grocery (Dry),2023-10-01,116,2.19,2024-07-25,Available
+BATCH-10747,37948236113,Evian Soda Canette 33cl,Beverages,2023-11-13,168,0.71,2024-05-31,Available
+BATCH-10748,37860955759,Panzani Pâtes Bocal,Grocery (Dry),2023-11-06,195,3.17,2025-09-24,Available
+BATCH-10749,33628620487,Galbani Yaourt Nature x8,Dairy,2023-10-05,168,2.52,2023-11-03,Available
+BATCH-10750,31701252797,Le Petit Marseillais Gel Douche 250ml,Hygiene,2023-10-05,181,7.31,2025-02-06,Available
+BATCH-10751,38231689292,Volvic Thé Glacé Canette 33cl,Beverages,2023-10-21,53,1.55,2024-09-11,Available
+BATCH-10752,38145615113,Harrys Pain de Mie Complet,Bakery,2023-11-13,20,2.26,2023-12-01,Available
+BATCH-10753,31191704128,Origine Espagne Bananes Vrac,Fresh Produce,2023-10-19,21,1.41,2023-10-26,Available
+BATCH-10754,33296730111,Le Petit Marseillais Dentifrice Lot x2,Hygiene,2023-10-18,79,5.6,2025-06-24,Available
+BATCH-10755,39681016344,Amora Sauce Tomate 500g,Grocery (Dry),2023-11-03,71,2.26,2025-06-27,Available
+BATCH-10756,32545982062,Origine France Bananes 1kg,Fresh Produce,2023-10-24,23,2.33,2023-10-28,Available
+BATCH-10757,33257969137,Pasquier Pains au Chocolat x6,Bakery,2023-11-05,30,1.4,2023-11-14,Available
+BATCH-10758,39853324327,La Boulangère Baguette x6,Bakery,2023-11-10,33,0.85,2023-11-17,Available
+BATCH-10759,37714651650,Origine France Tomates Vrac,Fresh Produce,2023-11-13,25,2.39,2023-11-20,Available
+BATCH-10760,37374419360,Yoplait Mozzarella x4,Dairy,2023-10-31,57,2.36,2023-11-22,Available
+BATCH-10761,32550063513,Yoplait Yaourt Nature 1L,Dairy,2023-10-06,182,2.94,2023-10-26,Available
+BATCH-10762,39781714639,Origine Espagne Bananes 500g,Fresh Produce,2023-10-07,39,3.91,2023-10-12,Available
+BATCH-10763,32832204802,Maille Pâtes Bocal,Grocery (Dry),2023-10-20,174,0.92,2024-11-10,Available
+BATCH-10764,31765944017,Panzani Sauce Tomate Tube,Grocery (Dry),2023-10-13,75,3.32,2025-07-10,Available
+BATCH-10765,38576957385,Tropicana Soda 1L,Beverages,2023-10-24,115,2.58,2024-06-17,Available
+BATCH-10766,35708497851,Boulangerie Loc. Baguette Nature,Bakery,2023-10-03,38,1.26,2023-10-10,Available
+BATCH-10767,38898511155,L'Oréal Déodorant Bio,Hygiene,2023-11-01,52,3.62,2025-03-22,Available
+BATCH-10768,37006309476,La Boulangère Pain de Mie Complet,Bakery,2023-10-05,16,1.58,2023-10-18,Available
+BATCH-10769,35187588879,Lustucru Pâtes 500g,Grocery (Dry),2023-11-06,80,2.08,2025-07-24,Available
+BATCH-10770,35056842032,Lustucru Sauce Tomate 1kg,Grocery (Dry),2023-10-21,53,4.71,2024-06-21,Available
+BATCH-10771,36217282336,Bonduelle Riz Basmati 1kg,Grocery (Dry),2023-10-07,151,4.07,2024-06-02,Available
+BATCH-10772,31937159234,Le Petit Marseillais Savon Liquide Lot x2,Hygiene,2023-11-13,103,5.57,2025-04-13,Available
+BATCH-10773,39856985459,Dove Dentifrice Bio,Hygiene,2023-10-31,131,5.85,2024-11-20,Available
+BATCH-10774,37128743207,Origine France Pommes 1kg,Fresh Produce,2023-10-07,28,2.69,2023-10-13,Available
+BATCH-10775,36427606400,Nutella Moutarde Bocal,Grocery (Dry),2023-10-07,116,3.98,2025-06-24,Available
+BATCH-10776,35544562756,Coca Cola Soda Pack 6x33cl,Beverages,2023-10-02,107,2.06,2024-03-30,Available
+BATCH-10777,35439639777,La Boulangère Baguette Complet,Bakery,2023-11-08,15,1.25,2023-11-17,Available
+BATCH-10778,32550063513,Yoplait Yaourt Nature 1L,Dairy,2023-11-11,117,2.94,2023-12-01,Available
+BATCH-10779,37341880124,L'Oréal Dentifrice 400ml,Hygiene,2023-10-31,99,3.15,2025-09-18,Available
+BATCH-10780,31500430089,Nivea Savon Liquide Lot x2,Hygiene,2023-11-06,188,2.43,2025-06-19,Available
+BATCH-10781,36760109368,La Boulangère Pain de Mie Nature,Bakery,2023-11-08,54,2.38,2023-11-29,Available
+BATCH-10782,31465545262,Président Mozzarella 500g,Dairy,2023-10-16,159,1.02,2023-11-11,Available
+BATCH-10783,34118430002,Volvic Thé Glacé 1L,Beverages,2023-10-21,148,4.87,2024-07-01,Available
+BATCH-10784,36092104053,Dove Déodorant Bio,Hygiene,2023-11-11,173,2.36,2025-05-10,Available
+BATCH-10785,39626228488,Dove Déodorant Lot x2,Hygiene,2023-10-31,163,3.25,2025-03-20,Available
+BATCH-10786,35099050976,Coca Cola Thé Glacé Pack 6x33cl,Beverages,2023-10-23,130,4.62,2024-09-13,Available
+BATCH-10787,31908758588,Nutella Moutarde 500g,Grocery (Dry),2023-11-07,92,2.9,2024-11-02,Available
+BATCH-10788,31162482685,Colgate Shampoing Bio,Hygiene,2023-10-30,129,4.67,2025-01-26,Available
+BATCH-10789,31465545262,Président Mozzarella 500g,Dairy,2023-10-20,124,1.02,2023-11-15,Available
+BATCH-10790,39160699288,Origine France Tomates Sachet,Fresh Produce,2023-11-14,36,3.55,2023-11-22,Available
+BATCH-10791,35312896102,Bonduelle Pâtes Tube,Grocery (Dry),2023-10-21,67,2.27,2025-07-09,Available
+BATCH-10792,38720089696,Galbani Yaourt Nature 500g,Dairy,2023-10-25,85,1.57,2023-11-16,Available
+BATCH-10793,31473493543,Nivea Gel Douche Bio,Hygiene,2023-10-17,72,2.11,2025-05-19,Available
+BATCH-10794,35838045862,Volvic Soda 1.5L,Beverages,2023-10-08,176,5.83,2024-09-14,Available
+BATCH-10795,36120838418,Carrefour Bio Lait Demi-Ecrémé x8,Dairy,2023-11-12,192,2.0,2023-12-20,Available
+BATCH-10796,38886691421,Nivea Dentifrice Lot x2,Hygiene,2023-10-01,111,5.09,2025-05-31,Available
+BATCH-10797,34830962007,Oasis Eau Minérale Canette 33cl,Beverages,2023-10-17,138,2.76,2024-09-26,Available
+BATCH-10798,33122857919,Cristaline Bière Blonde 1.5L,Beverages,2023-11-12,157,3.95,2024-10-16,Available
+BATCH-10799,33342585791,Origine Espagne Salade 1kg,Fresh Produce,2023-11-11,34,2.83,2023-11-15,Available
